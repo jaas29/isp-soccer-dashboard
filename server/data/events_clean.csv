@@ -1,0 +1,572 @@
+date,match_id,team,player,minute,second,event_type,outcome,x,y,cell,notes,zone_third,lane,zone_3x3,timestamp,is_successful,event_category,distance_traveled
+2025-03-14 00:00:00.000,2,NCF,Mathis,0,32,GK Action,Claim / Catch,10,45,XY!F7,,Defensive Third,Central Lane,R2C1,0.5333333333333333,True,GK Action,
+2025-03-15 13:58:12.000,2,NCF,Mathis,0,37,GK Action,Distribution Success,0,45,XY!F7,,Defensive Third,Central Lane,R2C1,0.6166666666666667,True,GK Action,10.0
+2025-03-16 13:58:12.000,2,NCF,Pablo,0,40,Pass,Successful,0,65,XY!F5,,Defensive Third,Central Lane,R2C1,0.6666666666666666,True,Pass,20.0
+2025-03-17 13:58:12.000,2,NCF,Hannes,0,45,Pass,Successful,0,65,XY!F5,,Defensive Third,Central Lane,R2C1,0.75,True,Pass,0.0
+2025-03-18 13:58:12.000,2,NCF,Jaden,0,48,Long Pass,Successful,20,15,XY!F10,,Defensive Third,Right Lane,R1C1,0.8,True,Pass,53.85164807134504
+2025-03-19 13:58:12.000,2,NCF,Lawrence,0,51,Aerial Duel,Won,60,85,XY!J3,,Middle Third,Left Lane,R3C2,0.85,True,Duel,80.62257748298549
+2025-03-20 13:58:12.000,2,NCF,Lawrence,0,51,Pass,Successful,60,85,XY!J3,,Middle Third,Left Lane,R3C2,0.85,True,Pass,0.0
+2025-03-21 13:58:12.000,2,NCF,Cameron,0,55,Offensive Duel,Lost,80,75,XY!L4,,Final Third,Left Lane,R3C3,0.9166666666666666,False,Duel,22.360679774997898
+2025-03-22 13:58:12.000,2,NCF,Lawrence,1,2,Recovery,Controlled,60,65,XY!J5,,Middle Third,Central Lane,R2C2,1.0333333333333334,True,Recovery,22.360679774997898
+2025-03-23 13:58:12.000,2,NCF,Andres,1,4,Pass,Successful,50,65,XY!I5,,Middle Third,Central Lane,R2C2,1.0666666666666667,True,Pass,10.0
+2025-03-24 13:58:12.000,2,NCF,Lawrence,1,8,Pass,Successful,50,85,XY!I3,,Middle Third,Left Lane,R3C2,1.1333333333333333,True,Pass,20.0
+2025-03-25 13:58:12.000,2,NCF,Mathis,1,12,GK Action,Distribution Fail,0,85,XY!F3,,Defensive Third,Left Lane,R3C1,1.2,False,GK Action,50.0
+2025-03-26 13:58:12.000,2,NCF,Pedri,1,14,Aerial Duel,Lost,20,55,XY!F6,,Defensive Third,Central Lane,R2C1,1.2333333333333334,False,Duel,36.05551275463989
+2025-03-27 13:58:12.000,2,NCF,Andres,1,20,Recovery,Controlled,20,35,XY!F8,,Defensive Third,Central Lane,R2C1,1.3333333333333333,True,Recovery,20.0
+2025-03-28 13:58:12.000,2,NCF,Andres,1,21,Pass,Successful,20,35,XY!F8,,Defensive Third,Central Lane,R2C1,1.35,True,Pass,0.0
+2025-03-29 13:58:12.000,2,NCF,Guti,1,30,Offensive Duel,Won,50,5,XY!I11,,Middle Third,Right Lane,R1C2,1.5,True,Duel,42.42640687119285
+2025-03-30 13:58:12.000,2,NCF,Guti,1,34,Cross,Unsuccessful,70,5,XY!K11,,Middle Third,Right Lane,R1C3,1.5666666666666667,False,Cross,20.0
+2025-03-31 13:58:12.000,2,NCF,Pablo,2,8,Long Pass,Successful,20,65,XY!F5,,Defensive Third,Central Lane,R2C1,2.1333333333333333,True,Pass,78.10249675906654
+2025-04-01 13:58:12.000,2,NCF,Martin,2,8,Aerial Duel,Won,50,85,XY!I3,,Middle Third,Left Lane,R3C2,2.1333333333333333,True,Duel,36.05551275463989
+2025-04-02 13:58:12.000,2,NCF,Martin,2,13,Pass,Successful,50,85,XY!I3,,Middle Third,Left Lane,R3C2,2.216666666666667,True,Pass,0.0
+2025-04-03 13:58:12.000,2,NCF,Pedri,2,15,Pass,Successful,30,75,XY!G4,,Defensive Third,Left Lane,R3C1,2.25,True,Pass,22.360679774997898
+2025-04-04 13:58:12.000,2,NCF,Lawrence,2,17,Pass,Successful,30,95,XY!G2,,Defensive Third,Left Lane,R3C1,2.283333333333333,True,Pass,20.0
+2025-04-05 13:58:12.000,2,NCF,Pedri,2,20,Pass,Successful,30,55,XY!G6,,Defensive Third,Central Lane,R2C1,2.3333333333333335,True,Pass,40.0
+2025-04-06 13:58:12.000,2,NCF,Jaden,2,25,Pass,Progressive Pass,20,15,XY!F10,,Defensive Third,Right Lane,R1C1,2.4166666666666665,False,Pass,41.23105625617661
+2025-04-07 13:58:12.000,2,NCF,Guti,2,27,Pass,Successful,50,5,XY!I11,,Middle Third,Right Lane,R1C2,2.45,True,Pass,31.622776601683793
+2025-04-08 13:58:12.000,2,NCF,Andres,2,34,Pass,Successful,40,5,XY!H11,,Middle Third,Right Lane,R1C2,2.5666666666666664,True,Pass,10.0
+2025-04-09 13:58:12.000,2,NCF,Jaden,2,36,Long Pass,Unsuccessful,20,15,XY!F10,,Defensive Third,Right Lane,R1C1,2.6,False,Pass,22.360679774997898
+2025-04-10 13:58:12.000,2,NCF,Pedri,2,42,Recovery,Controlled,60,55,XY!J6,,Middle Third,Central Lane,R2C2,2.7,True,Recovery,56.568542494923804
+2025-04-11 13:58:12.000,2,NCF,Pedri,2,44,Pass,Successful,60,55,XY!J6,,Middle Third,Central Lane,R2C2,2.7333333333333334,True,Pass,0.0
+2025-04-12 13:58:12.000,2,NCF,Pedri,2,44,Pass,Successful,60,55,XY!J6,,Middle Third,Central Lane,R2C2,2.7333333333333334,True,Pass,0.0
+2025-04-13 13:58:12.000,2,NCF,Pablo,2,44,Pass,Unsuccessful,40,75,XY!H4,,Middle Third,Left Lane,R3C2,2.7333333333333334,False,Pass,28.284271247461902
+2025-04-14 13:58:12.000,2,NCF,Andres,2,54,Foul Committed,Reckless (yellow-type),30,55,XY!G6,,Defensive Third,Central Lane,R2C1,2.9,False,Foul Committed,22.360679774997898
+2025-04-15 13:58:12.000,2,NCF,Pablo,3,19,Aerial Duel,Won,10,45,XY!F7,,Defensive Third,Central Lane,R2C1,3.3166666666666664,True,Duel,22.360679774997898
+2025-04-16 13:58:12.000,2,NCF,Pablo,3,19,Aerial Duel,Won,10,45,XY!F7,,Defensive Third,Central Lane,R2C1,3.3166666666666664,True,Duel,0.0
+2025-04-17 13:58:12.000,2,NCF,Pablo,3,19,Pass,Successful,10,45,XY!F7,,Defensive Third,Central Lane,R2C1,3.3166666666666664,True,Pass,0.0
+2025-04-18 13:58:12.000,2,NCF,Lawrence,3,24,Pass,Successful,10,85,XY!F3,,Defensive Third,Left Lane,R3C1,3.4,True,Pass,40.0
+2025-04-19 13:58:12.000,2,NCF,Pablo,3,26,Long Pass,Unsuccessful,0,75,XY!F4,,Defensive Third,Left Lane,R3C1,3.4333333333333336,False,Pass,14.142135623730951
+2025-04-20 13:58:12.000,2,NCF,Martin,3,29,Aerial Duel,Lost,30,75,XY!G4,,Defensive Third,Left Lane,R3C1,3.4833333333333334,False,Duel,30.0
+2025-04-21 13:58:12.000,2,NCF,Andres,3,31,Recovery,Loose Ball,20,45,XY!F7,,Defensive Third,Central Lane,R2C1,3.5166666666666666,False,Recovery,31.622776601683793
+2025-04-22 13:58:12.000,2,NCF,Andres,3,31,Long Pass,Unsuccessful,20,45,XY!F7,,Defensive Third,Central Lane,R2C1,3.5166666666666666,False,Pass,0.0
+2025-04-23 13:58:12.000,2,NCF,Lawrence,3,40,Defensive Duel,Won,10,95,XY!F2,,Defensive Third,Left Lane,R3C1,3.6666666666666665,True,Duel,50.99019513592785
+2025-04-24 13:58:12.000,2,NCF,Guti,3,55,Aerial Duel,Won,0,25,XY!F9,,Defensive Third,Right Lane,R1C1,3.9166666666666665,True,Duel,70.71067811865476
+2025-04-25 13:58:12.000,2,NCF,Guti,4,2,Pass,Progressive Pass,20,5,XY!F11,,Defensive Third,Right Lane,R1C1,4.033333333333333,False,Pass,28.284271247461902
+2025-04-26 13:58:12.000,2,NCF,Andres,4,4,Pass,Progressive Pass,40,5,XY!H11,,Middle Third,Right Lane,R1C2,4.066666666666666,False,Pass,20.0
+2025-04-27 13:58:12.000,2,NCF,Duke,4,6,Pass,Successful,50,5,XY!I11,,Middle Third,Right Lane,R1C2,4.1,True,Pass,10.0
+2025-04-28 13:58:12.000,2,NCF,Guti,4,9,Pass,Successful,30,5,XY!G11,,Defensive Third,Right Lane,R1C1,4.15,True,Pass,20.0
+2025-04-29 13:58:12.000,2,NCF,Jaden,4,12,Pass,Successful,10,5,XY!F11,,Defensive Third,Right Lane,R1C1,4.2,True,Pass,20.0
+2025-04-30 13:58:12.000,2,NCF,Hannes,4,16,Pass,Unsuccessful,10,45,XY!F7,,Defensive Third,Central Lane,R2C1,4.266666666666667,False,Pass,40.0
+2025-05-01 13:58:12.000,2,NCF,Pablo,4,24,Defensive Duel,Won,10,85,XY!F3,,Defensive Third,Left Lane,R3C1,4.4,True,Duel,40.0
+2025-05-02 13:58:12.000,2,NCF,Martin,5,15,Pass,Successful,30,95,XY!G2,,Defensive Third,Left Lane,R3C1,5.25,True,Pass,22.360679774997898
+2025-05-03 13:58:12.000,2,NCF,Pablo,5,18,Long Pass,Successful,10,95,XY!F2,,Defensive Third,Left Lane,R3C1,5.3,True,Pass,20.0
+2025-05-04 13:58:12.000,2,NCF,Duke,5,20,Aerial Duel,Won,60,75,XY!J4,,Middle Third,Left Lane,R3C2,5.333333333333333,True,Duel,53.85164807134504
+2025-05-05 13:58:12.000,2,NCF,Duke,5,20,Pass,Successful,60,75,XY!J4,,Middle Third,Left Lane,R3C2,5.333333333333333,True,Pass,0.0
+2025-05-06 13:58:12.000,2,NCF,Andres,5,25,Pass,Unsuccessful,60,45,XY!J7,,Middle Third,Central Lane,R2C2,5.416666666666667,False,Pass,30.0
+2025-05-07 13:58:12.000,2,NCF,Jaden,5,30,Recovery,Controlled,30,25,XY!G9,,Defensive Third,Right Lane,R1C1,5.5,True,Recovery,36.05551275463989
+2025-05-08 13:58:12.000,2,NCF,Jaden,5,30,Pass,Progressive Pass,30,25,XY!G9,,Defensive Third,Right Lane,R1C1,5.5,False,Pass,0.0
+2025-05-09 13:58:12.000,2,NCF,Andres,5,33,Loss,Bad Touch,50,25,XY!I9,,Middle Third,Right Lane,R1C2,5.55,False,Loss,20.0
+2025-05-10 13:58:12.000,2,NCF,Pablo,5,37,Recovery,Controlled,10,65,XY!F5,,Defensive Third,Central Lane,R2C1,5.616666666666667,True,Recovery,56.568542494923804
+2025-05-11 13:58:12.000,2,NCF,Pablo,5,38,Pass,Successful,20,65,XY!F5,,Defensive Third,Central Lane,R2C1,5.633333333333333,True,Pass,10.0
+2025-05-12 13:58:12.000,2,NCF,Pedri,5,48,Pass,Progressive Pass,50,55,XY!I6,,Middle Third,Central Lane,R2C2,5.8,False,Pass,31.622776601683793
+2025-05-13 13:58:12.000,2,NCF,Guti,5,52,Cross,Unsuccessful,70,5,XY!K11,,Middle Third,Right Lane,R1C3,5.866666666666667,False,Cross,53.85164807134504
+2025-05-14 13:58:12.000,2,NCF,Duke,6,48,Aerial Duel,Lost,60,5,XY!J11,,Middle Third,Right Lane,R1C2,6.8,False,Duel,10.0
+2025-05-15 13:58:12.000,2,NCF,Andres,6,52,Aerial Duel,Lost,50,25,XY!I9,,Middle Third,Right Lane,R1C2,6.866666666666667,False,Duel,22.360679774997898
+2025-05-16 13:58:12.000,2,NCF,Pablo,6,56,Recovery,Controlled,30,45,XY!G7,,Defensive Third,Central Lane,R2C1,6.933333333333334,True,Recovery,28.284271247461902
+2025-05-17 13:58:12.000,2,NCF,Pablo,6,57,Pass,Successful,30,45,XY!G7,,Defensive Third,Central Lane,R2C1,6.95,True,Pass,0.0
+2025-05-18 13:58:12.000,2,NCF,Pedri,6,59,Pass,Successful,40,45,XY!H7,,Middle Third,Central Lane,R2C2,6.983333333333333,True,Pass,10.0
+2025-05-19 13:58:12.000,2,NCF,Andres,7,1,Pass,Successful,40,25,XY!H9,,Middle Third,Right Lane,R1C2,7.016666666666667,True,Pass,20.0
+2025-05-20 13:58:12.000,2,NCF,Guti,7,7,Pass,Unsuccessful,50,5,XY!I11,,Middle Third,Right Lane,R1C2,7.116666666666666,False,Pass,22.360679774997898
+2025-05-21 13:58:12.000,2,NCF,Jaden,7,3,Pass,Progressive Pass,20,25,XY!F9,,Defensive Third,Right Lane,R1C1,7.05,False,Pass,36.05551275463989
+2025-05-22 13:58:12.000,2,NCF,Duke,7,24,Recovery,Controlled,70,25,XY!K9,,Middle Third,Right Lane,R1C3,7.4,True,Recovery,50.0
+2025-05-23 13:58:12.000,2,NCF,Duke,7,26,Foul Won,Direct FK,70,25,XY!K9,,Middle Third,Right Lane,R1C3,7.433333333333334,False,Foul Won,0.0
+2025-05-24 13:58:12.000,2,NCF,Jaden,8,6,Cross,Successful,70,25,XY!K9,,Middle Third,Right Lane,R1C3,8.1,True,Cross,0.0
+2025-05-25 13:58:12.000,2,NCF,Pablo,8,9,Shot,Off Target,105,55,XY!O6,,Final Third,Central Lane,R2C3,8.15,False,Shot,46.09772228646444
+2025-05-26 13:58:12.000,2,NCF,Pablo,8,9,Aerial Duel,Won,90,65,XY!M5,,Final Third,Central Lane,R2C3,8.15,True,Duel,18.027756377319946
+2025-05-27 13:58:12.000,2,NCF,Lawrence,8,28,Recovery,Controlled,30,55,XY!G6,,Defensive Third,Central Lane,R2C1,8.466666666666667,True,Recovery,60.8276253029822
+2025-05-28 13:58:12.000,2,NCF,Lawrence,8,29,Pass,Successful,30,55,XY!G6,,Defensive Third,Central Lane,R2C1,8.483333333333333,True,Pass,0.0
+2025-05-29 13:58:12.000,2,NCF,Guti,8,31,Loss,Bad Touch,50,45,XY!I7,,Middle Third,Central Lane,R2C2,8.516666666666667,False,Loss,22.360679774997898
+2025-05-30 13:58:12.000,2,NCF,Pedri,8,56,Recovery,Controlled,10,35,XY!F8,,Defensive Third,Central Lane,R2C1,8.933333333333334,True,Recovery,41.23105625617661
+2025-05-31 13:58:12.000,2,NCF,Pedri,8,58,Pass,Progressive Pass,20,35,XY!F8,,Defensive Third,Central Lane,R2C1,8.966666666666667,False,Pass,10.0
+2025-06-01 13:58:12.000,2,NCF,Duke,9,2,Pass,Progressive Pass,40,45,XY!H7,,Middle Third,Central Lane,R2C2,9.033333333333333,False,Pass,22.360679774997898
+2025-06-02 13:58:12.000,2,NCF,Cameron,9,8,Offensive Duel,Won,70,85,XY!K3,,Middle Third,Left Lane,R3C3,9.133333333333333,True,Duel,50.0
+2025-06-03 13:58:12.000,2,NCF,Cameron,9,10,Loss,Dispossessed,90,75,XY!M4,,Final Third,Left Lane,R3C3,9.166666666666666,False,Loss,22.360679774997898
+2025-06-04 13:58:12.000,2,NCF,Pedri,9,42,Recovery,Controlled,60,75,XY!J4,,Middle Third,Left Lane,R3C2,9.7,True,Recovery,30.0
+2025-06-05 13:58:12.000,2,NCF,Pedri,9,44,Long Pass,Unsuccessful,60,75,XY!J4,,Middle Third,Left Lane,R3C2,9.733333333333333,False,Pass,0.0
+2025-06-06 13:58:12.000,2,NCF,Andres,9,53,Recovery,Loose Ball,60,25,XY!J9,,Middle Third,Right Lane,R1C2,9.883333333333333,False,Recovery,50.0
+2025-06-07 13:58:12.000,2,NCF,Jaden,10,5,Tackle,Won,20,25,XY!F9,,Defensive Third,Right Lane,R1C1,10.083333333333334,True,Defensive Action,40.0
+2025-06-08 13:58:12.000,2,NCF,Hannes,10,6,Long Pass,Unsuccessful,20,35,XY!F8,,Defensive Third,Central Lane,R2C1,10.1,False,Pass,10.0
+2025-06-09 13:58:12.000,2,NCF,Cameron,10,40,Recovery,Loose Ball,80,85,XY!L3,,Final Third,Left Lane,R3C3,10.666666666666666,False,Recovery,78.10249675906654
+2025-06-10 13:58:12.000,2,NCF,Jaden,11,6,Recovery,Loose Ball,20,15,XY!F10,,Defensive Third,Right Lane,R1C1,11.1,False,Recovery,92.19544457292888
+2025-06-11 13:58:12.000,2,NCF,Guti,11,30,Defensive Duel,Won,20,5,XY!F11,,Defensive Third,Right Lane,R1C1,11.5,True,Duel,10.0
+2025-06-12 13:58:12.000,2,NCF,Andres,12,0,Defensive Duel,Lost,30,5,XY!G11,,Defensive Third,Right Lane,R1C1,12.0,False,Duel,10.0
+2025-06-13 13:58:12.000,2,NCF,Guti,12,2,Recovery,Controlled,20,5,XY!F11,,Defensive Third,Right Lane,R1C1,12.033333333333333,True,Recovery,10.0
+2025-06-14 13:58:12.000,2,NCF,Guti,12,2,Pass,Progressive Pass,20,5,XY!F11,,Defensive Third,Right Lane,R1C1,12.033333333333333,False,Pass,0.0
+2025-06-15 13:58:12.000,2,NCF,Andres,12,6,Offensive Duel,Lost,40,15,XY!H10,,Middle Third,Right Lane,R1C2,12.1,False,Duel,22.360679774997898
+2025-06-16 13:58:12.000,2,NCF,Andres,12,10,Foul Committed,Careless (no card),40,15,XY!H10,,Middle Third,Right Lane,R1C2,12.166666666666666,False,Foul Committed,0.0
+2025-06-17 13:58:12.000,2,NCF,Lawrence,12,46,Long Pass,Unsuccessful,10,85,XY!F3,,Defensive Third,Left Lane,R3C1,12.766666666666667,False,Pass,76.15773105863909
+2025-06-18 13:58:12.000,2,NCF,Hannes,13,6,Tackle,Lost,10,35,XY!F8,,Defensive Third,Central Lane,R2C1,13.1,False,Defensive Action,50.0
+2025-06-19 13:58:12.000,2,NCF,Pedri,13,8,Defensive Duel,Won,20,45,XY!F7,,Defensive Third,Central Lane,R2C1,13.133333333333333,True,Duel,14.142135623730951
+2025-06-20 13:58:12.000,2,NCF,Pedri,13,8,Recovery,Controlled,20,45,XY!F7,,Defensive Third,Central Lane,R2C1,13.133333333333333,True,Recovery,0.0
+2025-06-21 13:58:12.000,2,NCF,Pedri,13,15,Pass,Successful,20,85,XY!F3,,Defensive Third,Left Lane,R3C1,13.25,True,Pass,40.0
+2025-06-22 13:58:12.000,2,NCF,Martin,13,18,Pass,Successful,20,55,XY!F6,,Defensive Third,Central Lane,R2C1,13.3,True,Pass,30.0
+2025-06-23 13:58:12.000,2,NCF,Jaden,13,24,Long Pass,Successful,10,25,XY!F9,,Defensive Third,Right Lane,R1C1,13.4,True,Pass,31.622776601683793
+2025-06-24 13:58:12.000,2,NCF,Duke,13,27,Aerial Duel,Won,60,35,XY!J8,,Middle Third,Central Lane,R2C2,13.45,True,Duel,50.99019513592785
+2025-06-25 13:58:12.000,2,NCF,Duke,13,27,Pass,Unsuccessful,60,35,XY!J8,,Middle Third,Central Lane,R2C2,13.45,False,Pass,0.0
+2025-06-26 13:58:12.000,2,NCF,Martin,13,58,Recovery,Loose Ball,50,25,XY!I9,,Middle Third,Right Lane,R1C2,13.966666666666667,False,Recovery,14.142135623730951
+2025-06-27 13:58:12.000,2,NCF,Mathis,14,34,GK Action,Distribution Success,0,55,XY!F6,,Defensive Third,Central Lane,R2C1,14.566666666666666,True,GK Action,58.309518948453004
+2025-06-28 13:58:12.000,2,NCF,Pablo,14,37,Pass,Successful,0,75,XY!F4,,Defensive Third,Left Lane,R3C1,14.616666666666667,True,Pass,20.0
+2025-06-29 13:58:12.000,2,NCF,Pedri,14,40,Pass,Successful,20,75,XY!F4,,Defensive Third,Left Lane,R3C1,14.666666666666666,True,Pass,20.0
+2025-06-30 13:58:12.000,2,NCF,Pablo,14,43,Pass,Successful,0,85,XY!F3,,Defensive Third,Left Lane,R3C1,14.716666666666667,True,Pass,22.360679774997898
+2025-07-01 13:58:12.000,2,NCF,Lawrence,14,46,Loss,Bad Touch,30,85,XY!G3,,Defensive Third,Left Lane,R3C1,14.766666666666667,False,Loss,30.0
+2025-07-02 13:58:12.000,2,NCF,Lawrence,14,50,Recovery,Controlled,20,75,XY!F4,,Defensive Third,Left Lane,R3C1,14.833333333333334,True,Recovery,14.142135623730951
+2025-07-03 13:58:12.000,2,NCF,Lawrence,14,51,Pass,Successful,20,75,XY!F4,,Defensive Third,Left Lane,R3C1,14.85,True,Pass,0.0
+2025-07-04 13:58:12.000,2,NCF,Pablo,14,52,Pass,Progressive Pass,10,75,XY!F4,,Defensive Third,Left Lane,R3C1,14.866666666666667,False,Pass,10.0
+2025-07-05 13:58:12.000,2,NCF,Martin,14,55,Long Pass,Unsuccessful,40,75,XY!H4,,Middle Third,Left Lane,R3C2,14.916666666666666,False,Pass,30.0
+2025-07-06 13:58:12.000,2,NCF,Pablo,15,33,Foul Committed,Careless (no card),60,85,XY!J3,,Middle Third,Left Lane,R3C2,15.55,False,Foul Committed,22.360679774997898
+2025-07-07 13:58:12.000,2,NCF,Guti,16,22,Recovery,Controlled,10,15,XY!F10,,Defensive Third,Right Lane,R1C1,16.366666666666667,True,Recovery,86.02325267042627
+2025-07-08 13:58:12.000,2,NCF,Guti,16,24,Pass,Progressive Pass,0,15,XY!F10,,Defensive Third,Right Lane,R1C1,16.4,False,Pass,10.0
+2025-07-09 13:58:12.000,2,NCF,Duke,16,26,Pass,Successful,30,15,XY!G10,,Defensive Third,Right Lane,R1C1,16.433333333333334,True,Pass,30.0
+2025-07-10 13:58:12.000,2,NCF,Martin,16,27,Pass,Progressive Pass,30,35,XY!G8,,Defensive Third,Central Lane,R2C1,16.45,False,Pass,20.0
+2025-07-11 13:58:12.000,2,NCF,Duke,16,29,Pass,Progressive Pass,40,15,XY!H10,,Middle Third,Right Lane,R1C2,16.483333333333334,False,Pass,22.360679774997898
+2025-07-12 13:58:12.000,2,NCF,Cameron,16,33,Pass,Unsuccessful,50,45,XY!I7,,Middle Third,Central Lane,R2C2,16.55,False,Pass,31.622776601683793
+2025-07-13 13:58:12.000,2,NCF,Pablo,16,39,Recovery,Loose Ball,10,65,XY!F5,,Defensive Third,Central Lane,R2C1,16.65,False,Recovery,44.721359549995796
+2025-07-14 13:58:12.000,2,NCF,Lawrence,16,47,Defensive Duel,Won,10,65,XY!F5,,Defensive Third,Central Lane,R2C1,16.783333333333335,True,Duel,0.0
+2025-07-15 13:58:12.000,2,NCF,Lawrence,16,49,Long Pass,Unsuccessful,0,85,XY!F3,Won a goal kick,Defensive Third,Left Lane,R3C1,16.816666666666666,False,Pass,22.360679774997898
+2025-07-16 13:58:12.000,2,NCF,Mathis,17,1,GK Action,Distribution Success,0,55,XY!F6,,Defensive Third,Central Lane,R2C1,17.016666666666666,True,GK Action,30.0
+2025-07-17 13:58:12.000,2,NCF,Andres,17,9,Pass,Progressive Pass,20,25,XY!F9,,Defensive Third,Right Lane,R1C1,17.15,False,Pass,36.05551275463989
+2025-07-18 13:58:12.000,2,NCF,Martin,17,11,Pass,Successful,40,25,XY!H9,,Middle Third,Right Lane,R1C2,17.183333333333334,True,Pass,20.0
+2025-07-19 13:58:12.000,2,NCF,Andres,17,14,Pass,Successful,20,25,XY!F9,,Defensive Third,Right Lane,R1C1,17.233333333333334,True,Pass,20.0
+2025-07-20 13:58:12.000,2,NCF,Jaden,17,17,Pass,Progressive Pass,20,15,XY!F10,,Defensive Third,Right Lane,R1C1,17.283333333333335,False,Pass,10.0
+2025-07-21 13:58:12.000,2,NCF,Duke,17,19,Offensive Duel,Won,40,25,XY!H9,,Middle Third,Right Lane,R1C2,17.316666666666666,True,Duel,22.360679774997898
+2025-07-22 13:58:12.000,2,NCF,Duke,17,22,Pass,Progressive Pass,60,25,XY!J9,,Middle Third,Right Lane,R1C2,17.366666666666667,False,Pass,20.0
+2025-07-23 13:58:12.000,2,NCF,Guti,17,29,Offensive Duel,Won,80,15,XY!L10,,Final Third,Right Lane,R1C3,17.483333333333334,True,Duel,22.360679774997898
+2025-07-24 13:58:12.000,2,NCF,Guti,17,31,Pass,Key Pass,70,35,XY!K8,,Middle Third,Central Lane,R2C3,17.516666666666666,False,Pass,22.360679774997898
+2025-07-25 13:58:12.000,2,NCF,Cameron,17,32,Pass,Key Pass,80,45,XY!L7,,Final Third,Central Lane,R2C3,17.533333333333335,False,Pass,14.142135623730951
+2025-07-26 13:58:12.000,2,NCF,Martin,17,33,Shot,On Target,105,35,XY!O8,,Final Third,Central Lane,R2C3,17.55,False,Shot,26.92582403567252
+2025-07-27 13:58:12.000,2,NCF,Pedri,18,12,Cross,Unsuccessful,90,95,XY!M2,Corner,Final Third,Left Lane,R3C3,18.2,False,Cross,61.84658438426491
+2025-07-28 13:58:12.000,2,NCF,Jaden,18,14,Aerial Duel,Lost,90,45,XY!M7,,Final Third,Central Lane,R2C3,18.233333333333334,False,Duel,50.0
+2025-07-29 13:58:12.000,2,NCF,Guti,18,21,Long Pass,Unsuccessful,40,15,XY!H10,Won a throw-in,Middle Third,Right Lane,R1C2,18.35,False,Pass,58.309518948453004
+2025-07-30 13:58:12.000,2,NCF,Martin,18,37,Loss,Dispossessed,80,25,XY!L9,,Final Third,Right Lane,R1C3,18.616666666666667,False,Loss,41.23105625617661
+2025-07-31 13:58:12.000,2,NCF,Guti,18,47,Defensive Duel,Foul Committed,50,5,XY!I11,,Middle Third,Right Lane,R1C2,18.783333333333335,False,Duel,36.05551275463989
+2025-08-01 13:58:12.000,2,NCF,Martin,19,22,Aerial Duel,Won,30,35,XY!G8,,Defensive Third,Central Lane,R2C1,19.366666666666667,True,Duel,36.05551275463989
+2025-08-02 13:58:12.000,2,NCF,Martin,19,22,Pass,Unsuccessful,30,35,XY!G8,,Defensive Third,Central Lane,R2C1,19.366666666666667,False,Pass,0.0
+2025-08-03 13:58:12.000,2,NCF,Pedri,19,33,Defensive Duel,Foul Committed,20,95,XY!F2,,Defensive Third,Left Lane,R3C1,19.55,False,Duel,60.8276253029822
+2025-08-04 13:58:12.000,2,NCF,Lawrence,20,7,Defensive Duel,Lost,0,75,XY!F4,,Defensive Third,Left Lane,R3C1,20.116666666666667,False,Duel,28.284271247461902
+2025-08-05 13:58:12.000,2,NCF,Guti,20,13,Clearance,Successful,15,15,XY!F10,,Defensive Third,Right Lane,R1C1,20.216666666666665,True,Clearance,61.84658438426491
+2025-08-06 13:58:12.000,2,NCF,Andres,20,47,Recovery,Controlled,20,55,XY!F6,,Defensive Third,Central Lane,R2C1,20.783333333333335,True,Recovery,40.311288741492746
+2025-08-07 13:58:12.000,2,NCF,Andres,20,47,Pass,Progressive Pass,20,55,XY!F6,,Defensive Third,Central Lane,R2C1,20.783333333333335,False,Pass,0.0
+2025-08-08 13:58:12.000,2,NCF,Duke,20,51,Offensive Duel,Lost,50,55,XY!I6,Dribble,Middle Third,Central Lane,R2C2,20.85,False,Duel,30.0
+2025-08-09 13:58:12.000,2,NCF,Martin,20,54,Pass,Unsuccessful,30,55,XY!G6,,Defensive Third,Central Lane,R2C1,20.9,False,Pass,20.0
+2025-08-10 13:58:12.000,2,NCF,Jaden,21,2,Aerial Duel,Won,20,25,XY!F9,,Defensive Third,Right Lane,R1C1,21.033333333333335,True,Duel,31.622776601683793
+2025-08-11 13:58:12.000,2,NCF,Jaden,21,2,Pass,Successful,20,25,XY!F9,,Defensive Third,Right Lane,R1C1,21.033333333333335,True,Pass,0.0
+2025-08-12 13:58:12.000,2,NCF,Andres,21,12,Pass,Successful,40,25,XY!H9,,Middle Third,Right Lane,R1C2,21.2,True,Pass,20.0
+2025-08-13 13:58:12.000,2,NCF,Mathis,21,20,GK Action,Distribution Success,0,35,XY!F8,,Defensive Third,Central Lane,R2C1,21.333333333333332,True,GK Action,41.23105625617661
+2025-08-14 13:58:12.000,2,NCF,Hannes,21,24,Long Pass,Successful,20,25,XY!F9,,Defensive Third,Right Lane,R1C1,21.4,True,Pass,22.360679774997898
+2025-08-15 13:58:12.000,2,NCF,Duke,21,29,Aerial Duel,Won,70,15,XY!K10,,Middle Third,Right Lane,R1C3,21.483333333333334,True,Duel,50.99019513592785
+2025-08-16 13:58:12.000,2,NCF,Duke,21,31,Pass,Successful,70,15,XY!K10,,Middle Third,Right Lane,R1C3,21.516666666666666,True,Pass,0.0
+2025-08-17 13:58:12.000,2,NCF,Guti,21,35,Offensive Duel,Won,80,15,XY!L10,,Final Third,Right Lane,R1C3,21.583333333333332,True,Duel,10.0
+2025-08-18 13:58:12.000,2,NCF,Guti,21,35,Cross,Unsuccessful,80,15,XY!L10,,Final Third,Right Lane,R1C3,21.583333333333332,False,Cross,0.0
+2025-08-19 13:58:12.000,2,NCF,Jaden,21,42,Aerial Duel,Won,40,25,XY!H9,,Middle Third,Right Lane,R1C2,21.7,True,Duel,41.23105625617661
+2025-08-20 13:58:12.000,2,NCF,Mathis,22,13,GK Action,Distribution Success,0,45,XY!F7,,Defensive Third,Central Lane,R2C1,22.216666666666665,True,GK Action,44.721359549995796
+2025-08-21 13:58:12.000,2,NCF,Pedri,22,30,Pass,Progressive Pass,20,65,XY!F5,,Defensive Third,Central Lane,R2C1,22.5,False,Pass,28.284271247461902
+2025-08-22 13:58:12.000,2,NCF,Martin,22,33,Pass,Successful,40,65,XY!H5,,Middle Third,Central Lane,R2C2,22.55,True,Pass,20.0
+2025-08-23 13:58:12.000,2,NCF,Pablo,22,36,Pass,Unsuccessful,10,85,XY!F3,,Defensive Third,Left Lane,R3C1,22.6,False,Pass,36.05551275463989
+2025-08-24 13:58:12.000,2,NCF,Pablo,22,40,Defensive Duel,Lost,0,85,XY!F3,,Defensive Third,Left Lane,R3C1,22.666666666666668,False,Duel,10.0
+2025-08-25 13:58:12.000,2,NCF,Mathis,23,5,GK Action,Distribution Success,0,55,XY!F6,,Defensive Third,Central Lane,R2C1,23.083333333333332,True,GK Action,30.0
+2025-08-26 13:58:12.000,2,NCF,Pablo,23,13,Long Pass,Successful,10,85,XY!F3,,Defensive Third,Left Lane,R3C1,23.216666666666665,True,Pass,31.622776601683793
+2025-08-27 13:58:12.000,2,NCF,Cameron,23,16,Loss,Bad Touch,60,85,XY!J3,,Middle Third,Left Lane,R3C2,23.266666666666666,False,Loss,50.0
+2025-08-28 13:58:12.000,2,NCF,Andrew,23,20,Aerial Duel,Lost,30,85,XY!G3,,Defensive Third,Left Lane,R3C1,23.333333333333332,False,Duel,30.0
+2025-08-29 13:58:12.000,2,NCF,Pedri,23,22,Recovery,Controlled,20,75,XY!F4,,Defensive Third,Left Lane,R3C1,23.366666666666667,True,Recovery,14.142135623730951
+2025-08-30 13:58:12.000,2,NCF,Pedri,23,25,Offensive Duel,Won,10,75,XY!F4,Dribble,Defensive Third,Left Lane,R3C1,23.416666666666668,True,Duel,10.0
+2025-08-31 13:58:12.000,2,NCF,Pedri,23,30,Long Pass,Unsuccessful,40,55,XY!H6,,Middle Third,Central Lane,R2C2,23.5,False,Pass,36.05551275463989
+2025-09-01 13:58:12.000,2,NCF,Jaden,23,36,Pass,Unsuccessful,20,15,XY!F10,,Defensive Third,Right Lane,R1C1,23.6,False,Pass,44.721359549995796
+2025-09-02 13:58:12.000,2,NCF,Pablo,24,5,Long Pass,Unsuccessful,10,85,XY!F3,,Defensive Third,Left Lane,R3C1,24.083333333333332,False,Pass,70.71067811865476
+2025-09-03 13:58:12.000,2,NCF,Mathis,24,49,GK Action,Distribution Success,0,55,XY!F6,,Defensive Third,Central Lane,R2C1,24.816666666666666,True,GK Action,31.622776601683793
+2025-09-04 13:58:12.000,2,NCF,Pablo,24,51,Pass,Progressive Pass,0,75,XY!F4,,Defensive Third,Left Lane,R3C1,24.85,False,Pass,20.0
+2025-09-05 13:58:12.000,2,NCF,Andrew,24,54,Pass,Successful,20,85,XY!F3,,Defensive Third,Left Lane,R3C1,24.9,True,Pass,22.360679774997898
+2025-09-06 13:58:12.000,2,NCF,Pedri,24,56,Pass,Progressive Pass,20,65,XY!F5,,Defensive Third,Central Lane,R2C1,24.933333333333334,False,Pass,20.0
+2025-09-07 13:58:12.000,2,NCF,Andrew,24,59,Pass,Successful,30,75,XY!G4,,Defensive Third,Left Lane,R3C1,24.983333333333334,True,Pass,14.142135623730951
+2025-09-08 13:58:12.000,2,NCF,Andres,25,1,Pass,Successful,20,45,XY!F7,,Defensive Third,Central Lane,R2C1,25.016666666666666,True,Pass,31.622776601683793
+2025-09-09 13:58:12.000,2,NCF,Jaden,25,5,Long Pass,Unsuccessful,20,15,XY!F10,,Defensive Third,Right Lane,R1C1,25.083333333333332,False,Pass,30.0
+2025-09-10 13:58:12.000,2,NCF,Pedri,25,35,Block,Successful,25,65,XY!G5,,Defensive Third,Central Lane,R2C1,25.583333333333332,True,Block,50.24937810560445
+2025-09-11 13:58:12.000,2,NCF,Duke,26,14,Aerial Duel,Lost,60,15,XY!J10,,Middle Third,Right Lane,R1C2,26.233333333333334,False,Duel,61.032778078668514
+2025-09-12 13:58:12.000,2,NCF,Guti,26,30,Clearance,Successful,35,15,XY!H10,,Middle Third,Right Lane,R1C2,26.5,True,Clearance,25.0
+2025-09-13 13:58:12.000,2,NCF,Duke,26,34,Aerial Duel,Won,60,25,XY!J9,,Middle Third,Right Lane,R1C2,26.566666666666666,True,Duel,26.92582403567252
+2025-09-14 13:58:12.000,2,NCF,Duke,26,34,Pass,Key Pass,60,25,XY!J9,,Middle Third,Right Lane,R1C2,26.566666666666666,False,Pass,0.0
+2025-09-15 13:58:12.000,2,NCF,Pedri,27,44,Tackle,Won,10,55,XY!F6,,Defensive Third,Central Lane,R2C1,27.733333333333334,True,Defensive Action,58.309518948453004
+2025-09-16 13:58:12.000,2,NCF,Pedri,27,48,Long Pass,Unsuccessful,30,55,XY!G6,,Defensive Third,Central Lane,R2C1,27.8,False,Pass,20.0
+2025-09-17 13:58:12.000,2,NCF,Arthur,28,51,Recovery,Controlled,30,85,XY!G3,,Defensive Third,Left Lane,R3C1,28.85,True,Recovery,30.0
+2025-09-18 13:58:12.000,2,NCF,Arthur,28,52,Pass,Progressive Pass,40,85,XY!H3,,Middle Third,Left Lane,R3C2,28.866666666666667,False,Pass,10.0
+2025-09-19 13:58:12.000,2,NCF,Juan,28,54,Pass,Progressive Pass,50,75,XY!I4,,Middle Third,Left Lane,R3C2,28.9,False,Pass,14.142135623730951
+2025-09-20 13:58:12.000,2,NCF,Cameron,28,59,Pass,Key Pass,70,55,XY!K6,,Middle Third,Central Lane,R2C3,28.983333333333334,False,Pass,28.284271247461902
+2025-09-21 13:58:12.000,2,NCF,Duke,29,0,Shot,On Target,105,35,XY!O8,,Final Third,Central Lane,R2C3,29.0,False,Shot,40.311288741492746
+2025-09-22 13:58:12.000,2,NCF,Pedri,29,42,Loss,Bad Touch,50,85,XY!I3,,Middle Third,Left Lane,R3C2,29.7,False,Loss,74.33034373659252
+2025-09-23 13:58:12.000,2,NCF,Pedri,29,43,Recovery,Controlled,40,85,XY!H3,,Middle Third,Left Lane,R3C2,29.716666666666665,True,Recovery,10.0
+2025-09-24 13:58:12.000,2,NCF,Pedri,29,43,Pass,Successful,40,85,XY!H3,,Middle Third,Left Lane,R3C2,29.716666666666665,True,Pass,0.0
+2025-09-25 13:58:12.000,2,NCF,Andrew,29,45,Pass,Successful,60,85,XY!J3,,Middle Third,Left Lane,R3C2,29.75,True,Pass,20.0
+2025-09-26 13:58:12.000,2,NCF,Arthur,29,49,Loss,Bad Touch,70,75,XY!K4,,Middle Third,Left Lane,R3C3,29.816666666666666,False,Loss,14.142135623730951
+2025-09-27 13:58:12.000,2,NCF,Mathis,29,56,GK Action,Claim / Catch,0,35,XY!F8,,Defensive Third,Central Lane,R2C1,29.933333333333334,True,GK Action,80.62257748298549
+2025-09-28 13:58:12.000,2,NCF,Mathis,29,58,GK Action,Distribution Success,0,35,XY!F8,,Defensive Third,Central Lane,R2C1,29.966666666666665,True,GK Action,0.0
+2025-09-29 13:58:12.000,2,NCF,Guti,30,2,Pass,Progressive Pass,30,5,XY!G11,,Defensive Third,Right Lane,R1C1,30.033333333333335,False,Pass,42.42640687119285
+2025-09-30 13:58:12.000,2,NCF,Juan,30,4,Loss,Bad Touch,50,5,XY!I11,,Middle Third,Right Lane,R1C2,30.066666666666666,False,Loss,20.0
+2025-10-01 13:58:12.000,2,NCF,Pedri,30,20,Recovery,Controlled,60,45,XY!J7,,Middle Third,Central Lane,R2C2,30.333333333333332,True,Recovery,41.23105625617661
+2025-10-02 13:58:12.000,2,NCF,Pedri,30,24,Offensive Duel,Won,70,45,XY!K7,,Middle Third,Central Lane,R2C3,30.4,True,Duel,10.0
+2025-10-03 13:58:12.000,2,NCF,Pedri,30,25,Pass,Key Pass,80,45,XY!L7,,Final Third,Central Lane,R2C3,30.416666666666668,False,Pass,10.0
+2025-10-04 13:58:12.000,2,NCF,Duke,30,26,Cross,Unsuccessful,80,25,XY!L9,,Final Third,Right Lane,R1C3,30.433333333333334,False,Cross,20.0
+2025-10-05 13:58:12.000,2,NCF,Arthur,31,13,Aerial Duel,Won,40,75,XY!H4,,Middle Third,Left Lane,R3C2,31.216666666666665,True,Duel,64.03124237432849
+2025-10-06 13:58:12.000,2,NCF,Arthur,31,13,Pass,Unsuccessful,40,75,XY!H4,,Middle Third,Left Lane,R3C2,31.216666666666665,False,Pass,0.0
+2025-10-07 13:58:12.000,2,NCF,Pablo,31,17,Aerial Duel,Won,10,75,XY!F4,,Defensive Third,Left Lane,R3C1,31.283333333333335,True,Duel,30.0
+2025-10-08 13:58:12.000,2,NCF,Pablo,31,19,Clearance,Successful,25,75,XY!G4,,Defensive Third,Left Lane,R3C1,31.316666666666666,True,Clearance,15.0
+2025-10-09 13:58:12.000,2,NCF,Andrew,31,23,Pass,Successful,20,95,XY!F2,,Defensive Third,Left Lane,R3C1,31.383333333333333,True,Pass,20.615528128088304
+2025-10-10 13:58:12.000,2,NCF,Pedri,31,27,Pass,Progressive Pass,40,85,XY!H3,,Middle Third,Left Lane,R3C2,31.45,False,Pass,22.360679774997898
+2025-10-11 13:58:12.000,2,NCF,Cameron,31,31,Pass,Key Pass,70,75,XY!K4,,Middle Third,Left Lane,R3C3,31.516666666666666,False,Pass,31.622776601683793
+2025-10-12 13:58:12.000,2,NCF,Andrew,31,34,Cross,Unsuccessful,90,85,XY!M3,,Final Third,Left Lane,R3C3,31.566666666666666,False,Cross,22.360679774997898
+2025-10-13 13:58:12.000,2,NCF,Pedri,31,40,Recovery,Controlled,70,55,XY!K6,,Middle Third,Central Lane,R2C3,31.666666666666668,True,Recovery,36.05551275463989
+2025-10-14 13:58:12.000,2,NCF,Pedri,31,41,Pass,Unsuccessful,80,55,XY!L6,,Final Third,Central Lane,R2C3,31.683333333333334,False,Pass,10.0
+2025-10-15 13:58:12.000,2,NCF,Jaden,33,12,Cross,Unsuccessful,90,5,XY!M11,Corner,Final Third,Right Lane,R1C3,33.2,False,Cross,50.99019513592785
+2025-10-16 13:58:12.000,2,NCF,Pedri,33,18,Foul Committed,Reckless (yellow-type),80,85,XY!L3,,Final Third,Left Lane,R3C3,33.3,False,Foul Committed,80.62257748298549
+2025-10-17 13:58:12.000,2,NCF,Juan,33,32,Recovery,Controlled,20,25,XY!F9,,Defensive Third,Right Lane,R1C1,33.53333333333333,True,Recovery,84.8528137423857
+2025-10-18 13:58:12.000,2,NCF,Juan,33,32,Pass,Successful,20,25,XY!F9,,Defensive Third,Right Lane,R1C1,33.53333333333333,True,Pass,0.0
+2025-10-19 13:58:12.000,2,NCF,Arthur,33,34,Loss,Bad Touch,30,35,XY!G8,,Defensive Third,Central Lane,R2C1,33.56666666666667,False,Loss,14.142135623730951
+2025-10-20 13:58:12.000,2,NCF,Andrew,33,42,Defensive Duel,Lost,0,85,XY!F3,,Defensive Third,Left Lane,R3C1,33.7,False,Duel,58.309518948453004
+2025-10-21 13:58:12.000,2,NCF,Jaden,33,46,Tackle,Won,0,55,XY!F6,Block,Defensive Third,Central Lane,R2C1,33.766666666666666,True,Defensive Action,30.0
+2025-10-22 13:58:12.000,2,NCF,Arthur,34,10,Aerial Duel,Won,0,65,XY!F5,,Defensive Third,Central Lane,R2C1,34.166666666666664,True,Duel,10.0
+2025-10-23 13:58:12.000,2,NCF,Cameron,34,15,Tackle,Won,20,95,XY!F2,,Defensive Third,Left Lane,R3C1,34.25,True,Defensive Action,36.05551275463989
+2025-10-24 13:58:12.000,2,NCF,Cameron,34,20,Offensive Duel,Won,30,95,XY!G2,,Defensive Third,Left Lane,R3C1,34.333333333333336,True,Duel,10.0
+2025-10-25 13:58:12.000,2,NCF,Cameron,34,22,Offensive Duel,Lost,30,85,XY!G3,,Defensive Third,Left Lane,R3C1,34.36666666666667,False,Duel,10.0
+2025-10-26 13:58:12.000,2,NCF,Cameron,34,22,Offensive Duel,Lost,30,85,XY!G3,,Defensive Third,Left Lane,R3C1,34.36666666666667,False,Duel,0.0
+2025-10-27 13:58:12.000,2,NCF,Pedri,34,26,Tackle,Won,10,75,XY!F4,,Defensive Third,Left Lane,R3C1,34.43333333333333,True,Defensive Action,22.360679774997898
+2025-10-28 13:58:12.000,2,NCF,Juan,34,28,Pass,Progressive Pass,20,65,XY!F5,,Defensive Third,Central Lane,R2C1,34.46666666666667,False,Pass,14.142135623730951
+2025-10-29 13:58:12.000,2,NCF,Fabien,34,33,Pass,Progressive Pass,50,25,XY!I9,,Middle Third,Right Lane,R1C2,34.55,False,Pass,50.0
+2025-10-30 13:58:12.000,2,NCF,Guti,34,37,Offensive Duel,Won,80,15,XY!L10,,Final Third,Right Lane,R1C3,34.61666666666667,True,Duel,31.622776601683793
+2025-10-31 13:58:12.000,2,NCF,Guti,34,37,Pass,Successful,80,25,XY!L9,,Final Third,Right Lane,R1C3,34.61666666666667,True,Pass,10.0
+2025-11-01 13:58:12.000,2,NCF,Juan,34,40,Loss,Bad Touch,80,55,XY!L6,,Final Third,Central Lane,R2C3,34.666666666666664,False,Loss,30.0
+2025-11-02 13:58:12.000,2,NCF,Andrew,35,56,Defensive Duel,Won,10,95,XY!F2,,Defensive Third,Left Lane,R3C1,35.93333333333333,True,Duel,80.62257748298549
+2025-11-03 13:58:12.000,2,NCF,Arthur,36,28,Aerial Duel,Won,30,95,XY!G2,,Defensive Third,Left Lane,R3C1,36.46666666666667,True,Duel,20.0
+2025-11-04 13:58:12.000,2,NCF,Fabien,36,31,Pass,Progressive Pass,50,95,XY!I2,,Middle Third,Left Lane,R3C2,36.516666666666666,False,Pass,20.0
+2025-11-05 13:58:12.000,2,NCF,Cameron,36,32,Pass,Successful,70,95,XY!K2,,Middle Third,Left Lane,R3C3,36.53333333333333,True,Pass,20.0
+2025-11-06 13:58:12.000,2,NCF,Arthur,36,35,Pass,Progressive Pass,70,75,XY!K4,,Middle Third,Left Lane,R3C3,36.583333333333336,False,Pass,20.0
+2025-11-07 13:58:12.000,2,NCF,Cameron,36,40,Offensive Duel,Won,80,95,XY!L2,,Final Third,Left Lane,R3C3,36.666666666666664,True,Duel,22.360679774997898
+2025-11-08 13:58:12.000,2,NCF,Cameron,36,41,Cross,Unsuccessful,90,95,XY!M2,,Final Third,Left Lane,R3C3,36.68333333333333,False,Cross,10.0
+2025-11-09 13:58:12.000,2,NCF,Juan,36,48,Recovery,Controlled,60,55,XY!J6,,Middle Third,Central Lane,R2C2,36.8,True,Recovery,50.0
+2025-11-10 13:58:12.000,2,NCF,Juan,36,49,Shot,Off Target,85,55,XY!M6,,Final Third,Central Lane,R2C3,36.81666666666667,False,Shot,25.0
+2025-11-11 13:58:12.000,2,NCF,Jaden,37,7,Aerial Duel,Won,40,25,XY!H9,,Middle Third,Right Lane,R1C2,37.11666666666667,True,Duel,54.08326913195984
+2025-11-12 13:58:12.000,2,NCF,Pablo,37,10,Long Pass,Unsuccessful,40,55,XY!H6,,Middle Third,Central Lane,R2C2,37.166666666666664,False,Pass,30.0
+2025-11-13 13:58:12.000,2,NCF,Pablo,37,13,Recovery,Loose Ball,50,55,XY!I6,,Middle Third,Central Lane,R2C2,37.21666666666667,False,Recovery,10.0
+2025-11-14 13:58:12.000,2,NCF,Juan,37,40,Tackle,Won,10,45,XY!F7,,Defensive Third,Central Lane,R2C1,37.666666666666664,True,Defensive Action,41.23105625617661
+2025-11-15 13:58:12.000,2,NCF,Juan,37,42,Pass,Successful,20,65,XY!F5,,Defensive Third,Central Lane,R2C1,37.7,True,Pass,22.360679774997898
+2025-11-16 13:58:12.000,2,NCF,Arthur,37,48,Pass,Successful,30,85,XY!G3,,Defensive Third,Left Lane,R3C1,37.8,True,Pass,22.360679774997898
+2025-11-17 13:58:12.000,2,NCF,Juan,37,55,Pass,Unsuccessful,30,85,XY!G3,,Defensive Third,Left Lane,R3C1,37.916666666666664,False,Pass,0.0
+2025-11-18 13:58:12.000,2,NCF,Cameron,38,34,Offensive Duel,Won,80,85,XY!L3,,Final Third,Left Lane,R3C3,38.56666666666667,True,Duel,50.0
+2025-11-19 13:58:12.000,2,NCF,Cameron,38,35,Cross,Unsuccessful,90,85,XY!M3,,Final Third,Left Lane,R3C3,38.583333333333336,False,Cross,10.0
+2025-11-20 13:58:12.000,2,NCF,Pablo,38,51,Tackle,Won,50,95,XY!I2,,Middle Third,Left Lane,R3C2,38.85,True,Defensive Action,41.23105625617661
+2025-11-21 13:58:12.000,2,NCF,Andrew,38,54,Pass,Progressive Pass,40,85,XY!H3,,Middle Third,Left Lane,R3C2,38.9,False,Pass,14.142135623730951
+2025-11-22 13:58:12.000,2,NCF,Arthur,38,55,Pass,Successful,50,65,XY!I5,,Middle Third,Central Lane,R2C2,38.916666666666664,True,Pass,22.360679774997898
+2025-11-23 13:58:12.000,2,NCF,Juan,39,1,Pass,Successful,50,45,XY!I7,,Middle Third,Central Lane,R2C2,39.016666666666666,True,Pass,20.0
+2025-11-24 13:58:12.000,2,NCF,Jaden,39,7,Pass,Unsuccessful,50,15,XY!I10,,Middle Third,Right Lane,R1C2,39.11666666666667,False,Pass,30.0
+2025-11-25 13:58:12.000,2,NCF,Juan,39,26,Aerial Duel,Lost,90,35,XY!M8,,Final Third,Central Lane,R2C3,39.43333333333333,False,Duel,44.721359549995796
+2025-11-26 13:58:12.000,2,NCF,Hannes,39,35,Clearance,Successful,25,35,XY!G8,,Defensive Third,Central Lane,R2C1,39.583333333333336,True,Clearance,65.0
+2025-11-27 13:58:12.000,2,NCF,Guti,41,1,Clearance,Successful,25,15,XY!G10,,Defensive Third,Right Lane,R1C1,41.016666666666666,True,Clearance,20.0
+2025-11-28 13:58:12.000,2,NCF,Hannes,41,8,Aerial Duel,Won,0,45,XY!F7,,Defensive Third,Central Lane,R2C1,41.13333333333333,True,Duel,39.05124837953327
+2025-11-29 13:58:12.000,2,NCF,Pedri,41,10,Recovery,Loose Ball,10,55,XY!F6,,Defensive Third,Central Lane,R2C1,41.166666666666664,False,Recovery,14.142135623730951
+2025-11-30 13:58:12.000,2,NCF,Pedri,41,24,Defensive Duel,Lost,10,65,XY!F5,,Defensive Third,Central Lane,R2C1,41.4,False,Duel,10.0
+2025-12-01 13:58:12.000,2,NCF,Juan,41,26,Tackle,Won,10,55,XY!F6,,Defensive Third,Central Lane,R2C1,41.43333333333333,True,Defensive Action,10.0
+2025-12-02 13:58:12.000,2,NCF,Pablo,41,29,Pass,Successful,0,75,XY!F4,,Defensive Third,Left Lane,R3C1,41.483333333333334,True,Pass,22.360679774997898
+2025-12-03 13:58:12.000,2,NCF,Andrew,41,31,Pass,Successful,10,95,XY!F2,,Defensive Third,Left Lane,R3C1,41.516666666666666,True,Pass,22.360679774997898
+2025-12-04 13:58:12.000,2,NCF,Pedri,41,33,Pass,Unsuccessful,20,75,XY!F4,,Defensive Third,Left Lane,R3C1,41.55,False,Pass,22.360679774997898
+2025-12-05 13:58:12.000,2,NCF,Fabien,41,50,Recovery,Controlled,30,55,XY!G6,,Defensive Third,Central Lane,R2C1,41.833333333333336,True,Recovery,22.360679774997898
+2025-12-06 13:58:12.000,2,NCF,Fabien,41,52,Pass,Progressive Pass,20,45,XY!F7,,Defensive Third,Central Lane,R2C1,41.86666666666667,False,Pass,14.142135623730951
+2025-12-07 13:58:12.000,2,NCF,Fabien,42,1,Pass,Successful,50,5,XY!I11,,Middle Third,Right Lane,R1C2,42.016666666666666,True,Pass,50.0
+2025-12-08 13:58:12.000,2,NCF,Juan,42,5,Pass,Unsuccessful,40,35,XY!H8,,Middle Third,Central Lane,R2C2,42.083333333333336,False,Pass,31.622776601683793
+2025-12-09 13:58:12.000,2,NCF,Andrew,42,43,Tackle,Won,20,75,XY!F4,,Defensive Third,Left Lane,R3C1,42.71666666666667,True,Defensive Action,44.721359549995796
+2025-12-10 13:58:12.000,2,NCF,Cameron,42,45,Pass,Successful,20,55,XY!F6,,Defensive Third,Central Lane,R2C1,42.75,True,Pass,20.0
+2025-12-11 13:58:12.000,2,NCF,Guti,42,47,Long Pass,Unsuccessful,20,25,XY!F9,,Defensive Third,Right Lane,R1C1,42.78333333333333,False,Pass,30.0
+2025-12-12 13:58:12.000,2,NCF,Pablo,43,3,Aerial Duel,Won,0,65,XY!F5,,Defensive Third,Central Lane,R2C1,43.05,True,Duel,44.721359549995796
+2025-12-13 13:58:12.000,2,NCF,Pablo,43,7,Pass,Unsuccessful,10,95,XY!F2,,Defensive Third,Left Lane,R3C1,43.11666666666667,False,Pass,31.622776601683793
+2025-12-14 13:58:12.000,2,NCF,Juan,43,15,Recovery,Controlled,10,35,XY!F8,,Defensive Third,Central Lane,R2C1,43.25,True,Recovery,60.0
+2025-12-15 00:00:00.000,2,NCF,Guti,43,50,Recovery,Controlled,20,5,XY!F11,,Defensive Third,Right Lane,R1C1,43.833333333333336,True,Recovery,31.622776601683793
+2025-12-15 00:00:00.000,2,NCF,Guti,43,51,Pass,Successful,10,5,XY!F11,,Defensive Third,Right Lane,R1C1,43.85,True,Pass,10.0
+2025-12-27 09:59:12.643,2,NCF,Jaden,43,51,Clearance,Successful,25,15,XY!G10,,Defensive Third,Right Lane,R1C1,43.85,True,Clearance,18.027756377319946
+2025-12-15 00:00:00.000,2,NCF,Guti,44,24,Defensive Duel,Won,10,5,XY!F11,,Defensive Third,Right Lane,R1C1,44.4,True,Duel,18.027756377319946
+2025-12-27 10:00:29.184,2,NCF,Jaden,44,25,Clearance,Successful,25,25,XY!G9,,Defensive Third,Right Lane,R1C1,44.416666666666664,True,Clearance,25.0
+2025-12-15 00:00:00.000,2,NCF,Mathis,44,43,GK Action,Save,0,55,XY!F6,,Defensive Third,Central Lane,R2C1,44.71666666666667,False,GK Action,39.05124837953327
+2025-12-15 00:00:00.000,2,NCF,Mathis,44,56,GK Action,Claim / Catch,0,55,XY!F6,,Defensive Third,Central Lane,R2C1,44.93333333333333,True,GK Action,0.0
+2025-12-26 00:00:00.000,2,NCF,Martin,45,0,Pass,Successful,55,55,XY!J6,kickoff,Middle Third,Central Lane,R2C2,45.0,True,Pass,55.0
+2025-12-26 08:30:50.014,2,NCF,Jaden,45,2,Long Pass,Unsuccessful,35,55,XY!H6,,Middle Third,Central Lane,R2C2,45.03333333333333,False,Pass,20.0
+2025-12-26 08:32:38.393,2,NCF,Maya,45,43,Aerial Duel,Won,75,55,XY!L6,,Final Third,Central Lane,R2C3,45.71666666666667,True,Duel,40.0
+2025-12-26 08:33:28.088,2,NCF,Maya,45,48,Tackle,Won,35,25,XY!H9,,Middle Third,Right Lane,R1C2,45.8,True,Defensive Action,50.0
+2025-12-26 08:34:23.404,2,NCF,Legui,45,51,Pass,Unsuccessful,35,15,XY!H10,,Middle Third,Right Lane,R1C2,45.85,False,Pass,10.0
+2025-12-26 08:35:26.864,2,NCF,Legui,46,2,Recovery,Loose Ball,45,15,XY!I10,,Middle Third,Right Lane,R1C2,46.03333333333333,False,Recovery,10.0
+2025-12-26 08:36:06.891,2,NCF,Jaden,46,22,Recovery,Controlled,35,25,XY!H9,,Middle Third,Right Lane,R1C2,46.36666666666667,True,Recovery,14.142135623730951
+2025-12-26 08:36:43.189,2,NCF,Jaden,46,23,Long Pass,Successful,35,15,XY!H10,,Middle Third,Right Lane,R1C2,46.38333333333333,True,Pass,10.0
+2025-12-26 08:37:18.059,2,NCF,Matt,46,28,Pass,Unsuccessful,75,45,XY!L7,,Final Third,Central Lane,R2C3,46.46666666666667,False,Pass,50.0
+2025-12-26 08:38:46.250,2,NCF,Hannes,46,56,Aerial Duel,Won,25,55,XY!G6,,Defensive Third,Central Lane,R2C1,46.93333333333333,True,Duel,50.99019513592785
+2025-12-26 08:39:06.129,2,NCF,Hannes,46,56,Pass,Progressive Pass,25,55,XY!G6,,Defensive Third,Central Lane,R2C1,46.93333333333333,False,Pass,0.0
+2025-12-26 08:39:26.095,2,NCF,Martin,46,58,Loss,Bad Touch,45,55,XY!I6,,Middle Third,Central Lane,R2C2,46.96666666666667,False,Loss,20.0
+2025-12-26 08:45:55.160,2,NCF,Legui,47,31,Defensive Duel,Lost,35,5,XY!H11,,Middle Third,Right Lane,R1C2,47.516666666666666,False,Duel,50.99019513592785
+2025-12-26 08:46:33.902,2,NCF,Jaden,47,34,Defensive Duel,Lost,15,15,XY!F10,,Defensive Third,Right Lane,R1C1,47.56666666666667,False,Duel,22.360679774997898
+2025-12-26 08:46:54.568,2,NCF,Pablo,47,36,Clearance,Successful,15,55,XY!F6,,Defensive Third,Central Lane,R2C1,47.6,True,Clearance,40.0
+2025-12-26 08:47:46.768,2,NCF,Mathis,48,1,GK Action,Distribution Success,15,55,XY!F6,,Defensive Third,Central Lane,R2C1,48.016666666666666,True,GK Action,0.0
+2025-12-26 08:48:22.696,2,NCF,Lawrence,48,8,Pass,Unsuccessful,45,95,XY!I2,,Middle Third,Left Lane,R3C2,48.13333333333333,False,Pass,50.0
+2025-12-26 08:49:17.740,2,NCF,Matt,48,27,Recovery,Controlled,65,75,XY!K4,,Middle Third,Left Lane,R3C2,48.45,True,Recovery,28.284271247461902
+2025-12-26 08:50:37.107,2,NCF,Matt,48,29,Shot,Off Target,75,65,XY!L5,,Final Third,Central Lane,R2C3,48.483333333333334,False,Shot,14.142135623730951
+2025-12-26 08:52:24.629,2,NCF,Pedri,48,52,Aerial Duel,Lost,55,45,XY!J7,,Middle Third,Central Lane,R2C2,48.86666666666667,False,Duel,28.284271247461902
+2025-12-26 08:52:57.098,2,NCF,Pablo,48,55,Recovery,Controlled,45,55,XY!I6,,Middle Third,Central Lane,R2C2,48.916666666666664,True,Recovery,14.142135623730951
+2025-12-26 08:53:16.575,2,NCF,Pablo,48,56,Pass,Progressive Pass,45,55,XY!I6,,Middle Third,Central Lane,R2C2,48.93333333333333,False,Pass,0.0
+2025-12-26 08:53:47.209,2,NCF,Matt,48,58,Pass,Unsuccessful,85,65,XY!M5,,Final Third,Central Lane,R2C3,48.96666666666667,False,Pass,41.23105625617661
+2025-12-26 08:54:41.917,2,NCF,Maya,49,9,Recovery,Controlled,75,45,XY!L7,,Final Third,Central Lane,R2C3,49.15,True,Recovery,22.360679774997898
+2025-12-26 08:54:54.148,2,NCF,Maya,49,9,Recovery,Controlled,75,45,XY!L7,,Final Third,Central Lane,R2C3,49.15,True,Recovery,0.0
+2025-12-26 08:55:09.560,2,NCF,Maya,49,10,Pass,Successful,75,55,XY!L6,,Final Third,Central Lane,R2C3,49.166666666666664,True,Pass,10.0
+2025-12-26 08:55:42.564,2,NCF,Pedri,49,11,Offensive Duel,Won,65,45,XY!K7,Dribble,Middle Third,Central Lane,R2C2,49.18333333333333,True,Duel,14.142135623730951
+2025-12-26 08:56:13.596,2,NCF,Pedri,49,12,Pass,Unsuccessful,75,55,XY!L6,,Final Third,Central Lane,R2C3,49.2,False,Pass,14.142135623730951
+2025-12-26 08:57:18.031,2,NCF,Pedri,49,19,Recovery,Loose Ball,45,95,XY!I2,,Middle Third,Left Lane,R3C2,49.31666666666667,False,Recovery,50.0
+2025-12-26 08:58:11.804,2,NCF,Pablo,49,40,Tackle,Possession Won,25,65,XY!G5,,Defensive Third,Central Lane,R2C1,49.666666666666664,False,Defensive Action,36.05551275463989
+2025-12-26 08:58:37.843,2,NCF,Maya,49,44,Pass,Successful,35,55,XY!H6,,Middle Third,Central Lane,R2C2,49.733333333333334,True,Pass,14.142135623730951
+2025-12-26 08:59:11.366,2,NCF,Jaden,49,45,Long Pass,Unsuccessful,25,35,XY!G8,,Defensive Third,Central Lane,R2C1,49.75,False,Pass,22.360679774997898
+2025-12-26 10:58:21.356,2,NCF,Lawrence,50,17,Recovery,Controlled,55,85,XY!J3,,Middle Third,Left Lane,R3C2,50.28333333333333,True,Recovery,58.309518948453004
+2025-12-26 10:59:02.164,2,NCF,Lawrence,50,23,Loss,Bad Touch,85,85,XY!M3,,Final Third,Left Lane,R3C3,50.38333333333333,False,Loss,30.0
+2025-12-26 11:01:20.981,2,NCF,Martin,50,45,Pass,Successful,85,75,XY!M4,,Final Third,Left Lane,R3C3,50.75,True,Pass,10.0
+2025-12-26 11:01:47.930,2,NCF,Andrew,50,48,Pass,Unsuccessful,75,95,XY!L2,,Final Third,Left Lane,R3C3,50.8,False,Pass,22.360679774997898
+2025-12-26 11:03:15.438,2,NCF,Hannes,50,50,Block,Successful,55,65,XY!J5,block pass,Middle Third,Central Lane,R2C2,50.833333333333336,True,Block,36.05551275463989
+2025-12-26 11:03:43.928,2,NCF,Pedri,50,54,Pass,Successful,65,45,XY!K7,,Middle Third,Central Lane,R2C2,50.9,True,Pass,22.360679774997898
+2025-12-26 11:04:27.422,2,NCF,Jaden,50,58,Loss,Dispossessed,55,25,XY!J9,,Middle Third,Right Lane,R1C2,50.96666666666667,False,Loss,22.360679774997898
+2025-12-26 11:04:53.048,2,NCF,Jaden,50,59,Tackle,Won,45,25,XY!I9,,Middle Third,Right Lane,R1C2,50.983333333333334,True,Defensive Action,10.0
+2025-12-26 11:06:38.228,2,NCF,Jaden,51,2,Clearance,Successful,45,15,XY!I10,,Middle Third,Right Lane,R1C2,51.03333333333333,True,Clearance,10.0
+2025-12-26 11:06:58.668,2,NCF,Maya,51,7,Recovery,Controlled,75,25,XY!L9,,Final Third,Right Lane,R1C3,51.11666666666667,True,Recovery,31.622776601683793
+2025-12-26 11:07:14.261,2,NCF,Maya,51,10,Pass,Unsuccessful,85,15,XY!M10,,Final Third,Right Lane,R1C3,51.166666666666664,False,Pass,14.142135623730951
+2025-12-26 11:07:52.418,2,NCF,Matt,51,21,Recovery,Controlled,105,35,XY!O8,,Final Third,Central Lane,R2C3,51.35,True,Recovery,28.284271247461902
+2025-12-26 11:09:22.961,2,NCF,Duke,51,22,Shot,Off Target,105,35,XY!O8,,Final Third,Central Lane,R2C3,51.36666666666667,False,Shot,0.0
+2025-12-26 11:11:04.847,2,NCF,Martin,52,8,Loss,Bad Touch,65,85,XY!K3,,Middle Third,Left Lane,R3C2,52.13333333333333,False,Loss,64.03124237432849
+2025-12-26 11:11:30.335,2,NCF,Pedri,52,14,Recovery,Controlled,55,65,XY!J5,,Middle Third,Central Lane,R2C2,52.233333333333334,True,Recovery,22.360679774997898
+2025-12-26 11:11:51.536,2,NCF,Pedri,52,16,Offensive Duel,Won,55,65,XY!J5,Dribble,Middle Third,Central Lane,R2C2,52.266666666666666,True,Duel,0.0
+2025-12-26 11:12:12.254,2,NCF,Pedri,52,17,Pass,Successful,65,65,XY!K5,,Middle Third,Central Lane,R2C2,52.28333333333333,True,Pass,10.0
+2025-12-26 11:12:34.192,2,NCF,Maya,52,20,Pass,Successful,65,75,XY!K4,,Middle Third,Left Lane,R3C2,52.333333333333336,True,Pass,10.0
+2025-12-26 11:13:15.072,2,NCF,Andrew,52,24,Long Pass,Unsuccessful,75,75,XY!L4,,Final Third,Left Lane,R3C3,52.4,False,Pass,10.0
+2025-12-26 11:14:06.125,2,NCF,Jaden,52,59,Recovery,Controlled,45,5,XY!I11,,Middle Third,Right Lane,R1C2,52.983333333333334,True,Recovery,76.15773105863909
+2025-12-26 11:15:03.722,2,NCF,Duke,53,27,Aerial Duel,Won,85,5,XY!M11,,Final Third,Right Lane,R1C3,53.45,True,Duel,40.0
+2025-12-26 11:15:15.925,2,NCF,Duke,53,27,Pass,Successful,85,5,XY!M11,,Final Third,Right Lane,R1C3,53.45,True,Pass,0.0
+2025-12-26 11:16:00.072,2,NCF,Martin,53,29,Pass,Key Pass,105,15,XY!O10,,Final Third,Right Lane,R1C3,53.483333333333334,False,Pass,22.360679774997898
+2025-12-26 11:16:24.494,2,NCF,Cameron,53,31,Loss,Dispossessed,105,35,XY!O8,,Final Third,Central Lane,R2C3,53.516666666666666,False,Loss,20.0
+2025-12-26 11:16:51.352,2,NCF,Duke,53,35,Tackle,Foul,95,55,XY!N6,,Final Third,Central Lane,R2C3,53.583333333333336,False,Defensive Action,22.360679774997898
+2025-12-26 11:17:40.253,2,NCF,Pedri,53,48,Recovery,Controlled,75,65,XY!L5,,Final Third,Central Lane,R2C3,53.8,True,Recovery,22.360679774997898
+2025-12-26 11:17:52.244,2,NCF,Pedri,53,48,Pass,Progressive Pass,75,65,XY!L5,,Final Third,Central Lane,R2C3,53.8,False,Pass,0.0
+2025-12-26 11:18:46.762,2,NCF,Martin,53,53,Shot,Blocked,85,55,XY!M6,,Final Third,Central Lane,R2C3,53.88333333333333,False,Shot,14.142135623730951
+2025-12-26 11:20:00.738,2,NCF,Andrew,53,55,Shot,On Target,105,65,XY!O5,,Final Third,Central Lane,R2C3,53.916666666666664,False,Shot,22.360679774997898
+2025-12-26 11:22:30.769,2,NCF,Jaden,54,2,Pass,Successful,55,45,XY!J7,,Middle Third,Central Lane,R2C2,54.03333333333333,True,Pass,53.85164807134504
+2025-12-26 11:22:55.294,2,NCF,Andrew,54,10,Offensive Duel,Lost,75,95,XY!L2,,Final Third,Left Lane,R3C3,54.166666666666664,False,Duel,53.85164807134504
+2025-12-26 11:23:45.178,2,NCF,Duke,54,35,Pass,Progressive Pass,85,15,XY!M10,,Final Third,Right Lane,R1C3,54.583333333333336,False,Pass,80.62257748298549
+2025-12-26 11:24:33.320,2,NCF,Martin,54,38,Cross,Successful,105,15,XY!O10,Key Pass,Final Third,Right Lane,R1C3,54.63333333333333,True,Cross,20.0
+2025-12-26 11:25:55.438,2,NCF,Cameron,54,40,Shot,On Target,105,55,XY!O6,,Final Third,Central Lane,R2C3,54.666666666666664,False,Shot,40.0
+2025-12-26 11:26:56.344,2,NCF,Pedri,55,3,Loss,Bad Touch,85,75,XY!M4,,Final Third,Left Lane,R3C3,55.05,False,Loss,28.284271247461902
+2025-12-26 11:46:35.999,2,NCF,Jaden,55,4,Foul Committed,Careless (no card),65,25,XY!K9,,Middle Third,Right Lane,R1C2,55.06666666666667,False,Foul Committed,53.85164807134504
+2025-12-26 11:50:52.527,2,NCF,Mathis,56,20,GK Action,Save,15,55,XY!F6,,Defensive Third,Central Lane,R2C1,56.333333333333336,False,GK Action,58.309518948453004
+2025-12-26 11:51:59.720,2,NCF,Legui,57,5,Clearance,Successful,15,65,XY!F5,,Defensive Third,Central Lane,R2C1,57.083333333333336,True,Clearance,10.0
+2025-12-26 11:52:28.716,2,NCF,Martin,57,9,Clearance,Successful,25,65,XY!G5,,Defensive Third,Central Lane,R2C1,57.15,True,Clearance,10.0
+2025-12-26 11:53:06.072,2,NCF,Hannes,57,21,Clearance,Unsuccessful,25,55,XY!G6,,Defensive Third,Central Lane,R2C1,57.35,False,Clearance,10.0
+2025-12-26 11:53:40.777,2,NCF,Legui,57,25,Clearance,Successful,25,15,XY!G10,,Defensive Third,Right Lane,R1C1,57.416666666666664,True,Clearance,40.0
+2025-12-26 11:55:16.260,2,NCF,Pablo,58,23,Foul Won,Direct FK,25,75,XY!G4,,Defensive Third,Left Lane,R3C1,58.38333333333333,False,Foul Won,60.0
+2025-12-26 11:56:36.251,2,NCF,Pablo,58,48,Long Pass,Successful,25,75,XY!G4,throw in won,Defensive Third,Left Lane,R3C1,58.8,True,Pass,0.0
+2025-12-26 11:57:38.955,2,NCF,Duke,59,2,Offensive Duel,Lost,105,65,XY!O5,,Final Third,Central Lane,R2C3,59.03333333333333,False,Duel,80.62257748298549
+2025-12-26 11:58:16.946,2,NCF,Jaden,59,24,Aerial Duel,Won,55,35,XY!J8,,Middle Third,Central Lane,R2C2,59.4,True,Duel,58.309518948453004
+2025-12-26 11:58:45.056,2,NCF,Andrew,59,28,Pass,Unsuccessful,55,65,XY!J5,,Middle Third,Central Lane,R2C2,59.46666666666667,False,Pass,30.0
+2025-12-26 11:59:38.275,2,NCF,Andrew,59,40,Defensive Duel,Won,25,85,XY!G3,,Defensive Third,Left Lane,R3C1,59.666666666666664,True,Duel,36.05551275463989
+2025-12-26 12:00:17.542,2,NCF,Maya,59,45,Long Pass,Successful,25,55,XY!G6,,Defensive Third,Central Lane,R2C1,59.75,True,Pass,30.0
+2025-12-26 12:01:49.381,2,NCF,Cameron,60,27,Defensive Duel,Lost,55,25,XY!J9,,Middle Third,Right Lane,R1C2,60.45,False,Duel,42.42640687119285
+2025-12-26 12:02:19.770,2,NCF,Jaden,60,34,Defensive Duel,Lost,15,25,XY!F9,,Defensive Third,Right Lane,R1C1,60.56666666666667,False,Duel,40.0
+2025-12-26 12:02:57.343,2,NCF,Mathis,60,38,GK Action,Claim / Catch,15,45,XY!F7,,Defensive Third,Central Lane,R2C1,60.63333333333333,True,GK Action,20.0
+2025-12-26 12:03:19.662,2,NCF,Mathis,60,40,GK Action,Distribution Fail,15,55,XY!F6,,Defensive Third,Central Lane,R2C1,60.666666666666664,False,GK Action,10.0
+2025-12-26 12:03:53.178,2,NCF,Legui,60,48,Recovery,Loose Ball,35,15,XY!H10,,Middle Third,Right Lane,R1C2,60.8,False,Recovery,44.721359549995796
+2025-12-26 12:04:32.848,2,NCF,Andrew,61,5,Recovery,Controlled,45,85,XY!I3,,Middle Third,Left Lane,R3C2,61.083333333333336,True,Recovery,70.71067811865476
+2025-12-26 12:04:47.827,2,NCF,Andrew,61,7,Pass,Successful,35,75,XY!H4,,Middle Third,Left Lane,R3C2,61.11666666666667,True,Pass,14.142135623730951
+2025-12-26 12:05:38.026,2,NCF,Hannes,61,8,Pass,Successful,25,55,XY!G6,,Defensive Third,Central Lane,R2C1,61.13333333333333,True,Pass,22.360679774997898
+2025-12-26 12:05:58.547,2,NCF,Pablo,61,10,Pass,Progressive Pass,25,75,XY!G4,,Defensive Third,Left Lane,R3C1,61.166666666666664,False,Pass,20.0
+2025-12-26 12:06:22.976,2,NCF,Duke,61,13,Loss,Bad Touch,85,75,XY!M4,,Final Third,Left Lane,R3C3,61.21666666666667,False,Loss,60.0
+2025-12-26 12:06:49.271,2,NCF,Martin,61,19,Recovery,Controlled,75,45,XY!L7,,Final Third,Central Lane,R2C3,61.31666666666667,True,Recovery,31.622776601683793
+2025-12-26 12:07:19.772,2,NCF,Martin,61,25,Pass,Progressive Pass,75,25,XY!L9,,Final Third,Right Lane,R1C3,61.416666666666664,False,Pass,20.0
+2025-12-26 12:08:02.898,2,NCF,Legui,61,27,Pass,Progressive Pass,85,5,XY!M11,,Final Third,Right Lane,R1C3,61.45,False,Pass,22.360679774997898
+2025-12-26 12:08:19.007,2,NCF,Cameron,61,30,Pass,Successful,95,25,XY!N9,,Final Third,Right Lane,R1C3,61.5,True,Pass,22.360679774997898
+2025-12-26 12:08:40.288,2,NCF,Martin,61,32,Pass,Successful,85,15,XY!M10,,Final Third,Right Lane,R1C3,61.53333333333333,True,Pass,14.142135623730951
+2025-12-26 12:09:05.312,2,NCF,Maya,61,35,Pass,Progressive Pass,75,25,XY!L9,,Final Third,Right Lane,R1C3,61.583333333333336,False,Pass,14.142135623730951
+2025-12-26 12:09:26.289,2,NCF,Legui,61,38,Pass,Successful,85,5,XY!M11,,Final Third,Right Lane,R1C3,61.63333333333333,True,Pass,22.360679774997898
+2025-12-26 12:09:55.847,2,NCF,Maya,61,40,Pass,Progressive Pass,75,25,XY!L9,,Final Third,Right Lane,R1C3,61.666666666666664,False,Pass,22.360679774997898
+2025-12-26 12:10:41.412,2,NCF,Pedri,61,42,Offensive Duel,Won,95,25,XY!N9,,Final Third,Right Lane,R1C3,61.7,True,Duel,20.0
+2025-12-26 12:11:14.500,2,NCF,Pedri,61,44,Shot,On Target,105,25,XY!O9,,Final Third,Right Lane,R1C3,61.733333333333334,False,Shot,10.0
+2025-12-26 12:12:05.754,2,NCF,Maya,61,53,Tackle,Possession Won,75,45,XY!L7,,Final Third,Central Lane,R2C3,61.88333333333333,False,Defensive Action,36.05551275463989
+2025-12-26 12:12:26.993,2,NCF,Martin,61,55,Pass,Unsuccessful,65,25,XY!K9,,Middle Third,Right Lane,R1C2,61.916666666666664,False,Pass,22.360679774997898
+2025-12-26 12:12:58.597,2,NCF,Legui,62,2,Tackle,Won,35,15,XY!H10,,Middle Third,Right Lane,R1C2,62.03333333333333,True,Defensive Action,31.622776601683793
+2025-12-26 12:13:12.255,2,NCF,Legui,62,3,Pass,Successful,35,15,XY!H10,,Middle Third,Right Lane,R1C2,62.05,True,Pass,0.0
+2025-12-26 12:13:32.966,2,NCF,Martin,62,6,Loss,Dispossessed,55,15,XY!J10,,Middle Third,Right Lane,R1C2,62.1,False,Loss,20.0
+2025-12-26 12:13:58.866,2,NCF,Maya,62,8,Tackle,Lost,35,25,XY!H9,,Middle Third,Right Lane,R1C2,62.13333333333333,False,Defensive Action,22.360679774997898
+2025-12-26 12:14:33.373,2,NCF,Legui,62,18,Tackle,Possession Won,25,25,XY!G9,,Defensive Third,Right Lane,R1C1,62.3,False,Defensive Action,10.0
+2025-12-26 12:14:55.699,2,NCF,Pedri,62,22,Pass,Progressive Pass,45,35,XY!I8,,Middle Third,Central Lane,R2C2,62.36666666666667,False,Pass,22.360679774997898
+2025-12-26 12:15:19.684,2,NCF,Cameron,62,24,Pass,Progressive Pass,45,15,XY!I10,,Middle Third,Right Lane,R1C2,62.4,False,Pass,20.0
+2025-12-26 12:15:44.460,2,NCF,Andrew,62,33,Pass,Unsuccessful,75,85,XY!L3,,Final Third,Left Lane,R3C3,62.55,False,Pass,76.15773105863909
+2025-12-26 12:16:47.339,2,NCF,Pablo,62,44,Foul Committed,Careless (no card),25,45,XY!G7,Free kick that ended in goal,Defensive Third,Central Lane,R2C1,62.733333333333334,False,Foul Committed,64.03124237432849
+2025-12-26 12:18:31.814,2,NCF,Cameron,64,36,Pass,Successful,55,55,XY!J6,kickoff,Middle Third,Central Lane,R2C2,64.6,True,Pass,31.622776601683793
+2025-12-26 12:18:53.228,2,NCF,Andres,64,38,Pass,Successful,35,55,XY!H6,,Middle Third,Central Lane,R2C2,64.63333333333334,True,Pass,20.0
+2025-12-26 12:19:09.609,2,NCF,Maya,64,41,Pass,Successful,35,35,XY!H8,,Middle Third,Central Lane,R2C2,64.68333333333334,True,Pass,20.0
+2025-12-26 12:19:32.287,2,NCF,Hannes,64,43,Long Pass,Unsuccessful,25,55,XY!G6,,Defensive Third,Central Lane,R2C1,64.71666666666667,False,Pass,22.360679774997898
+2025-12-26 12:19:57.003,2,NCF,Maya,64,50,Recovery,Controlled,45,45,XY!I7,,Middle Third,Central Lane,R2C2,64.83333333333333,True,Recovery,22.360679774997898
+2025-12-26 12:20:21.904,2,NCF,Andres,64,52,Loss,Dispossessed,45,55,XY!I6,,Middle Third,Central Lane,R2C2,64.86666666666666,False,Loss,10.0
+2025-12-26 12:21:57.759,2,NCF,Maya,64,56,Foul Committed,Reckless (yellow-type),35,45,XY!H7,,Middle Third,Central Lane,R2C2,64.93333333333334,False,Foul Committed,14.142135623730951
+2025-12-26 14:54:17.861,2,NCF,Legui,65,14,Defensive Duel,Won,25,5,XY!G11,,Defensive Third,Right Lane,R1C1,65.23333333333333,True,Duel,41.23105625617661
+2025-12-26 14:54:39.281,2,NCF,Pablo,65,22,Aerial Duel,Won,15,55,XY!F6,,Defensive Third,Central Lane,R2C1,65.36666666666666,True,Duel,50.99019513592785
+2025-12-26 14:55:12.588,2,NCF,Arthur,65,30,Defensive Duel,Lost,15,75,XY!F4,,Defensive Third,Left Lane,R3C1,65.5,False,Duel,20.0
+2025-12-26 14:55:37.502,2,NCF,Hannes,65,32,Clearance,Unsuccessful,15,55,XY!F6,,Defensive Third,Central Lane,R2C1,65.53333333333333,False,Clearance,20.0
+2025-12-26 14:56:01.851,2,NCF,Hannes,65,33,Defensive Duel,Lost,15,55,XY!F6,,Defensive Third,Central Lane,R2C1,65.55,False,Duel,0.0
+2025-12-26 14:56:24.548,2,NCF,Jaden,65,34,Block,Successful,15,55,XY!F6,,Defensive Third,Central Lane,R2C1,65.56666666666666,True,Block,0.0
+2025-12-26 14:56:58.647,2,NCF,Maya,65,37,Clearance,Successful,25,45,XY!G7,,Defensive Third,Central Lane,R2C1,65.61666666666666,True,Clearance,14.142135623730951
+2025-12-26 14:57:19.605,2,NCF,Andrew,65,39,Pass,Progressive Pass,25,85,XY!G3,,Defensive Third,Left Lane,R3C1,65.65,False,Pass,40.0
+2025-12-26 14:57:53.237,2,NCF,Andres,65,44,Pass,Successful,45,95,XY!I2,,Middle Third,Left Lane,R3C2,65.73333333333333,True,Pass,22.360679774997898
+2025-12-26 14:58:15.218,2,NCF,Arthur,65,45,Pass,Progressive Pass,45,75,XY!I4,,Middle Third,Left Lane,R3C2,65.75,False,Pass,20.0
+2025-12-26 14:58:43.396,2,NCF,Duke,65,51,Long Pass,Unsuccessful,55,45,XY!J7,,Middle Third,Central Lane,R2C2,65.85,False,Pass,31.622776601683793
+2025-12-26 15:00:20.352,2,NCF,Arthur,66,33,Cross,Successful,105,5,XY!O11,Corner,Final Third,Right Lane,R1C3,66.55,True,Cross,64.03124237432849
+2025-12-26 15:01:29.619,2,NCF,Legui,66,42,Recovery,Controlled,75,5,XY!L11,,Final Third,Right Lane,R1C3,66.7,True,Recovery,30.0
+2025-12-26 15:02:17.460,2,NCF,Maya,67,40,Recovery,Controlled,35,45,XY!H7,,Middle Third,Central Lane,R2C2,67.66666666666667,True,Recovery,56.568542494923804
+2025-12-26 15:02:44.160,2,NCF,Maya,67,41,Pass,Successful,35,55,XY!H6,,Middle Third,Central Lane,R2C2,67.68333333333334,True,Pass,10.0
+2025-12-26 15:03:05.267,2,NCF,Andres,67,42,Pass,Successful,55,65,XY!J5,,Middle Third,Central Lane,R2C2,67.7,True,Pass,22.360679774997898
+2025-12-26 15:03:31.461,2,NCF,Pablo,67,47,Pass,Progressive Pass,55,95,XY!J2,,Middle Third,Left Lane,R3C2,67.78333333333333,False,Pass,30.0
+2025-12-26 15:03:55.170,2,NCF,Duke,67,48,Pass,Progressive Pass,85,75,XY!M4,,Final Third,Left Lane,R3C3,67.8,False,Pass,36.05551275463989
+2025-12-26 15:04:20.656,2,NCF,Cameron,67,50,Offensive Duel,Won,95,65,XY!N5,,Final Third,Central Lane,R2C3,67.83333333333333,True,Duel,14.142135623730951
+2025-12-26 15:05:20.461,2,NCF,Cameron,67,52,Shot,On Target,95,55,XY!N6,,Final Third,Central Lane,R2C3,67.86666666666666,False,Shot,10.0
+2025-12-26 15:06:16.443,2,NCF,Maya,68,7,Recovery,Loose Ball,75,25,XY!L9,,Final Third,Right Lane,R1C3,68.11666666666666,False,Recovery,36.05551275463989
+2025-12-26 15:07:19.591,2,NCF,Cameron,68,45,Offensive Duel,Won,75,5,XY!L11,,Final Third,Right Lane,R1C3,68.75,True,Duel,20.0
+2025-12-26 15:07:40.884,2,NCF,Cameron,68,47,Pass,Successful,65,15,XY!K10,,Middle Third,Right Lane,R1C2,68.78333333333333,True,Pass,14.142135623730951
+2025-12-26 15:07:56.251,2,NCF,Maya,68,48,Pass,Successful,45,15,XY!I10,,Middle Third,Right Lane,R1C2,68.8,True,Pass,20.0
+2025-12-26 15:08:44.917,2,NCF,Pablo,68,51,Pass,Unsuccessful,35,65,XY!H5,,Middle Third,Central Lane,R2C2,68.85,False,Pass,50.99019513592785
+2025-12-26 15:09:14.537,2,NCF,Cameron,68,57,Pass,Unsuccessful,85,55,XY!M6,,Final Third,Central Lane,R2C3,68.95,False,Pass,50.99019513592785
+2025-12-26 15:09:57.469,2,NCF,Pablo,68,55,Foul Committed,Reckless (yellow-type),75,65,XY!L5,,Final Third,Central Lane,R2C3,68.91666666666667,False,Foul Committed,14.142135623730951
+2025-12-26 15:10:49.543,2,NCF,Hannes,69,21,Aerial Duel,Lost,25,55,XY!G6,,Defensive Third,Central Lane,R2C1,69.35,False,Duel,50.99019513592785
+2025-12-26 15:11:26.134,2,NCF,Jaden,69,24,Clearance,Successful,25,45,XY!G7,,Defensive Third,Central Lane,R2C1,69.4,True,Clearance,10.0
+2025-12-26 15:12:02.395,2,NCF,Arthur,69,35,Recovery,Controlled,45,95,XY!I2,,Middle Third,Left Lane,R3C2,69.58333333333333,True,Recovery,53.85164807134504
+2025-12-26 15:12:24.147,2,NCF,Andrew,69,36,Pass,Successful,35,85,XY!H3,,Middle Third,Left Lane,R3C2,69.6,True,Pass,14.142135623730951
+2025-12-26 15:12:53.947,2,NCF,Pablo,69,38,Pass,Unsuccessful,25,75,XY!G4,,Defensive Third,Left Lane,R3C1,69.63333333333334,False,Pass,14.142135623730951
+2025-12-26 15:13:42.132,2,NCF,Maya,69,44,Block,Unsuccessful,25,35,XY!G8,,Defensive Third,Central Lane,R2C1,69.73333333333333,False,Block,40.0
+2025-12-26 15:14:17.477,2,NCF,Mathis,70,2,GK Action,Distribution Success,15,55,XY!F6,,Defensive Third,Central Lane,R2C1,70.03333333333333,True,GK Action,22.360679774997898
+2025-12-26 15:21:00.002,2,NCF,Jaden,70,9,Long Pass,Unsuccessful,35,15,XY!H10,,Middle Third,Right Lane,R1C2,70.15,False,Pass,44.721359549995796
+2025-12-26 15:21:36.190,2,NCF,Pedri,70,21,Recovery,Controlled,65,95,XY!K2,,Middle Third,Left Lane,R3C2,70.35,True,Recovery,85.44003745317531
+2025-12-26 15:21:49.937,2,NCF,Pedri,70,22,Offensive Duel,Foul Won,75,85,XY!L3,,Final Third,Left Lane,R3C3,70.36666666666666,False,Duel,14.142135623730951
+2025-12-26 15:21:50.895,2,NCF,Pedri,70,22,Offensive Duel,Foul Won,75,85,XY!L3,,Final Third,Left Lane,R3C3,70.36666666666666,False,Duel,0.0
+2025-12-26 15:22:24.879,2,NCF,Pedri,70,22,Foul Won,Direct FK,75,85,XY!L3,,Final Third,Left Lane,R3C3,70.36666666666666,False,Foul Won,0.0
+2025-12-26 15:23:01.218,2,NCF,Jaden,70,55,Cross,Unsuccessful,75,85,XY!L3,,Final Third,Left Lane,R3C3,70.91666666666667,False,Cross,0.0
+2025-12-26 15:23:24.799,2,NCF,Arthur,71,4,Pass,Successful,85,45,XY!M7,,Final Third,Central Lane,R2C3,71.06666666666666,True,Pass,41.23105625617661
+2025-12-26 15:23:59.261,2,NCF,Pedri,71,6,Offensive Duel,Won,75,35,XY!L8,Dribble,Final Third,Central Lane,R2C3,71.1,True,Duel,14.142135623730951
+2025-12-26 15:24:29.490,2,NCF,Pedri,71,10,Pass,Successful,85,55,XY!M6,,Final Third,Central Lane,R2C3,71.16666666666667,True,Pass,22.360679774997898
+2025-12-26 15:24:41.073,2,NCF,Cameron,71,11,Pass,Unsuccessful,95,55,XY!N6,,Final Third,Central Lane,R2C3,71.18333333333334,False,Pass,10.0
+2025-12-26 15:24:59.917,2,NCF,Pedri,71,14,Pass,Progressive Pass,85,35,XY!M8,,Final Third,Central Lane,R2C3,71.23333333333333,False,Pass,22.360679774997898
+2025-12-26 15:25:29.741,2,NCF,Arthur,71,17,Cross,Unsuccessful,95,15,XY!N10,,Final Third,Right Lane,R1C3,71.28333333333333,False,Cross,22.360679774997898
+2025-12-26 15:27:24.175,2,NCF,Arthur,71,54,Cross,Unsuccessful,105,95,XY!O2,corner,Final Third,Left Lane,R3C3,71.9,False,Cross,80.62257748298549
+2025-12-26 15:28:07.987,2,NCF,Pablo,72,7,Recovery,Controlled,55,45,XY!J7,,Middle Third,Central Lane,R2C2,72.11666666666666,True,Recovery,70.71067811865476
+2025-12-26 15:28:33.727,2,NCF,Pablo,72,9,Long Pass,Unsuccessful,55,45,XY!J7,,Middle Third,Central Lane,R2C2,72.15,False,Pass,0.0
+2025-12-26 15:28:59.655,2,NCF,Pablo,72,18,Pass,Successful,65,95,XY!K2,,Middle Third,Left Lane,R3C2,72.3,True,Pass,50.99019513592785
+2025-12-26 15:29:31.319,2,NCF,Arthur,72,20,Offensive Duel,Won,85,95,XY!M2,,Final Third,Left Lane,R3C3,72.33333333333333,True,Duel,20.0
+2025-12-26 15:29:52.361,2,NCF,Arthur,72,23,Pass,Successful,85,75,XY!M4,,Final Third,Left Lane,R3C3,72.38333333333334,True,Pass,20.0
+2025-12-26 15:30:18.702,2,NCF,Pedri,72,28,Loss,Dispossessed,95,65,XY!N5,,Final Third,Central Lane,R2C3,72.46666666666667,False,Loss,14.142135623730951
+2025-12-26 15:30:52.588,2,NCF,Hannes,72,33,Tackle,Won,35,45,XY!H7,,Middle Third,Central Lane,R2C2,72.55,True,Defensive Action,63.245553203367585
+2025-12-26 15:32:11.194,2,NCF,Hannes,73,24,Clearance,Successful,25,45,XY!G7,,Defensive Third,Central Lane,R2C1,73.4,True,Clearance,10.0
+2025-12-26 15:32:52.155,2,NCF,Cameron,73,28,Offensive Duel,Won,75,25,XY!L9,,Final Third,Right Lane,R1C3,73.46666666666667,True,Duel,53.85164807134504
+2025-12-26 15:33:18.330,2,NCF,Cameron,73,35,Offensive Duel,Foul Won,95,35,XY!N8,,Final Third,Central Lane,R2C3,73.58333333333333,False,Duel,22.360679774997898
+2025-12-26 15:34:50.625,2,NCF,Duke,74,30,Shot,Off Target,95,45,XY!N7,,Final Third,Central Lane,R2C3,74.5,False,Shot,10.0
+2025-12-26 15:36:25.050,2,NCF,Jaden,74,49,Aerial Duel,Won,35,35,XY!H8,,Middle Third,Central Lane,R2C2,74.81666666666666,True,Duel,60.8276253029822
+2025-12-26 15:36:43.957,2,NCF,Guti,74,50,Loss,Bad Touch,45,15,XY!I10,,Middle Third,Right Lane,R1C2,74.83333333333333,False,Loss,22.360679774997898
+2025-12-26 15:37:05.941,2,NCF,Guti,74,54,Recovery,Loose Ball,75,15,XY!L10,,Final Third,Right Lane,R1C3,74.9,False,Recovery,30.0
+2025-12-26 15:38:04.383,2,NCF,Pablo,75,24,Aerial Duel,Won,55,65,XY!J5,,Middle Third,Central Lane,R2C2,75.4,True,Duel,53.85164807134504
+2025-12-26 15:38:38.591,2,NCF,Maya,75,30,Recovery,Controlled,85,25,XY!M9,,Final Third,Right Lane,R1C3,75.5,True,Recovery,50.0
+2025-12-26 15:39:12.228,2,NCF,Maya,75,31,Pass,Unsuccessful,85,15,XY!M10,,Final Third,Right Lane,R1C3,75.51666666666667,False,Pass,10.0
+2025-12-26 15:39:58.328,2,NCF,Maya,75,58,Tackle,Won,35,15,XY!H10,,Middle Third,Right Lane,R1C2,75.96666666666667,True,Defensive Action,50.0
+2025-12-26 15:41:16.802,2,NCF,Pablo,76,23,Clearance,Successful,45,85,XY!I3,,Middle Third,Left Lane,R3C2,76.38333333333334,True,Clearance,70.71067811865476
+2025-12-26 15:42:06.131,2,NCF,Hannes,76,48,Defensive Duel,Won,35,25,XY!H9,,Middle Third,Right Lane,R1C2,76.8,True,Duel,60.8276253029822
+2025-12-26 15:42:23.663,2,NCF,Jaden,76,50,Pass,Successful,25,15,XY!G10,,Defensive Third,Right Lane,R1C1,76.83333333333333,True,Pass,14.142135623730951
+2025-12-26 15:42:52.981,2,NCF,Mathis,76,53,GK Action,Distribution Fail,15,45,XY!F7,,Defensive Third,Central Lane,R2C1,76.88333333333334,False,GK Action,31.622776601683793
+2025-12-26 15:43:11.987,2,NCF,Arthur,76,56,Aerial Duel,Lost,55,25,XY!J9,,Middle Third,Right Lane,R1C2,76.93333333333334,False,Duel,44.721359549995796
+2025-12-26 15:43:57.126,2,NCF,Jaden,77,1,Defensive Duel,Lost,25,15,XY!G10,,Defensive Third,Right Lane,R1C1,77.01666666666667,False,Duel,31.622776601683793
+2025-12-26 15:44:36.369,2,NCF,Guti,77,27,Defensive Duel,Won,25,5,XY!G11,,Defensive Third,Right Lane,R1C1,77.45,True,Duel,10.0
+2025-12-26 15:44:49.638,2,NCF,Guti,77,27,Foul Won,Direct FK,25,5,XY!G11,,Defensive Third,Right Lane,R1C1,77.45,False,Foul Won,0.0
+2025-12-26 15:48:18.385,2,NCF,Jaden,77,34,Long Pass,Successful,25,5,XY!G11,,Defensive Third,Right Lane,R1C1,77.56666666666666,True,Pass,0.0
+2025-12-26 15:48:36.373,2,NCF,Cameron,77,39,Aerial Duel,Won,85,25,XY!M9,,Final Third,Right Lane,R1C3,77.65,True,Duel,63.245553203367585
+2025-12-26 15:49:00.386,2,NCF,Maya,77,42,Recovery,Loose Ball,55,35,XY!J8,,Middle Third,Central Lane,R2C2,77.7,False,Recovery,31.622776601683793
+2025-12-26 15:49:32.573,2,NCF,Guti,77,51,Defensive Duel,Lost,25,15,XY!G10,,Defensive Third,Right Lane,R1C1,77.85,False,Duel,36.05551275463989
+2025-12-26 15:49:50.118,2,NCF,Mathis,77,53,GK Action,Claim / Catch,15,55,XY!F6,,Defensive Third,Central Lane,R2C1,77.88333333333334,True,GK Action,41.23105625617661
+2025-12-26 15:50:15.653,2,NCF,Mathis,77,57,GK Action,Distribution Success,15,55,XY!F6,,Defensive Third,Central Lane,R2C1,77.95,True,GK Action,0.0
+2025-12-26 15:50:57.115,2,NCF,Arthur,78,4,Offensive Duel,Won,85,65,XY!M5,,Final Third,Central Lane,R2C3,78.06666666666666,True,Duel,70.71067811865476
+2025-12-26 15:51:38.729,2,NCF,Arthur,78,8,Pass,Successful,95,35,XY!N8,,Final Third,Central Lane,R2C3,78.13333333333334,True,Pass,31.622776601683793
+2025-12-26 15:52:26.722,2,NCF,Cameron,78,10,Shot,Blocked,95,35,XY!N8,,Final Third,Central Lane,R2C3,78.16666666666667,False,Shot,0.0
+2025-12-26 15:53:08.551,2,NCF,Guti,78,20,Cross,Unsuccessful,95,15,XY!N10,,Final Third,Right Lane,R1C3,78.33333333333333,False,Cross,20.0
+2025-12-26 15:55:51.631,2,NCF,Arthur,78,40,Pass,Key Pass,85,45,XY!M7,,Final Third,Central Lane,R2C3,78.66666666666667,False,Pass,31.622776601683793
+2025-12-26 15:56:10.021,2,NCF,Duke,78,44,Loss,Dispossessed,95,65,XY!N5,,Final Third,Central Lane,R2C3,78.73333333333333,False,Loss,22.360679774997898
+2025-12-26 15:56:35.203,2,NCF,Maya,78,49,Pass,Successful,75,35,XY!L8,,Final Third,Central Lane,R2C3,78.81666666666666,True,Pass,36.05551275463989
+2025-12-26 15:57:23.238,2,NCF,Pedri,78,50,Pass,Successful,95,65,XY!N5,,Final Third,Central Lane,R2C3,78.83333333333333,True,Pass,36.05551275463989
+2025-12-26 15:57:43.482,2,NCF,Duke,78,51,Loss,Dispossessed,95,55,XY!N6,,Final Third,Central Lane,R2C3,78.85,False,Loss,10.0
+2025-12-26 15:58:13.264,2,NCF,Hannes,79,1,Tackle,Won,45,65,XY!I5,,Middle Third,Central Lane,R2C2,79.01666666666667,True,Defensive Action,50.99019513592785
+2025-12-26 15:58:51.444,2,NCF,Pedri,79,33,Defensive Duel,Lost,45,85,XY!I3,,Middle Third,Left Lane,R3C2,79.55,False,Duel,20.0
+2025-12-26 15:59:11.471,2,NCF,Mathis,79,36,GK Action,Claim / Catch,15,55,XY!F6,,Defensive Third,Central Lane,R2C1,79.6,True,GK Action,42.42640687119285
+2025-12-26 16:00:06.642,2,NCF,Mathis,79,39,GK Action,Distribution Success,15,55,XY!F6,,Defensive Third,Central Lane,R2C1,79.65,True,GK Action,0.0
+2025-12-26 16:00:35.087,2,NCF,Duke,79,53,Aerial Duel,Won,85,65,XY!M5,,Final Third,Central Lane,R2C3,79.88333333333334,True,Duel,70.71067811865476
+2025-12-26 16:28:42.354,2,NCF,Hannes,80,12,Recovery,Loose Ball,35,95,XY!H2,,Middle Third,Left Lane,R3C2,80.2,False,Recovery,58.309518948453004
+2025-12-26 16:30:06.039,2,NCF,Cameron,80,33,Clearance,Successful,35,65,XY!H5,,Middle Third,Central Lane,R2C2,80.55,True,Clearance,30.0
+2025-12-26 16:30:54.761,2,NCF,Duke,80,35,Pass,Successful,65,55,XY!K6,,Middle Third,Central Lane,R2C2,80.58333333333333,True,Pass,31.622776601683793
+2025-12-26 16:31:20.784,2,NCF,Andres,80,38,Pass,Unsuccessful,65,85,XY!K3,,Middle Third,Left Lane,R3C2,80.63333333333334,False,Pass,30.0
+2025-12-26 16:32:18.339,2,NCF,Duke,80,40,Foul Won,Direct FK,85,55,XY!M6,,Final Third,Central Lane,R2C3,80.66666666666667,False,Foul Won,36.05551275463989
+2025-12-26 16:33:55.338,2,NCF,Jaden,81,13,Cross,Unsuccessful,85,55,XY!M6,,Final Third,Central Lane,R2C3,81.21666666666667,False,Cross,0.0
+2025-12-26 16:34:43.305,2,NCF,Jaden,81,46,Aerial Duel,Won,45,25,XY!I9,,Middle Third,Right Lane,R1C2,81.76666666666667,True,Duel,50.0
+2025-12-26 16:35:22.014,2,NCF,Fabien,81,49,Pass,Successful,65,45,XY!K7,,Middle Third,Central Lane,R2C2,81.81666666666666,True,Pass,28.284271247461902
+2025-12-26 16:35:57.618,2,NCF,Pedri,81,53,Pass,Progressive Pass,65,75,XY!K4,,Middle Third,Left Lane,R3C2,81.88333333333334,False,Pass,30.0
+2025-12-26 16:36:22.112,2,NCF,Andrew,81,55,Pass,Successful,75,95,XY!L2,,Final Third,Left Lane,R3C3,81.91666666666667,True,Pass,22.360679774997898
+2025-12-26 16:36:59.678,2,NCF,Duke,81,56,Pass,Successful,85,75,XY!M4,,Final Third,Left Lane,R3C3,81.93333333333334,True,Pass,22.360679774997898
+2025-12-26 16:37:22.176,2,NCF,Pedri,81,59,Pass,Successful,75,75,XY!L4,,Final Third,Left Lane,R3C3,81.98333333333333,True,Pass,10.0
+2025-12-26 16:38:06.950,2,NCF,Duke,82,1,Pass,Successful,85,85,XY!M3,,Final Third,Left Lane,R3C3,82.01666666666667,True,Pass,14.142135623730951
+2025-12-26 16:38:08.749,2,NCF,Duke,82,1,Pass,Successful,85,85,XY!M3,,Final Third,Left Lane,R3C3,82.01666666666667,True,Pass,0.0
+2025-12-26 16:38:49.545,2,NCF,Pedri,82,3,Pass,Key Pass,75,85,XY!L3,,Final Third,Left Lane,R3C3,82.05,False,Pass,10.0
+2025-12-26 16:39:10.922,2,NCF,Andrew,82,3,Offensive Duel,Won,95,85,XY!N3,,Final Third,Left Lane,R3C3,82.05,True,Duel,20.0
+2025-12-26 16:39:35.891,2,NCF,Andrew,82,5,Cross,Successful,105,85,XY!O3,,Final Third,Left Lane,R3C3,82.08333333333333,True,Cross,10.0
+2025-12-26 16:41:04.413,2,NCF,Pedri,82,34,Cross,Unsuccessful,105,5,XY!O11,corner,Final Third,Right Lane,R1C3,82.56666666666666,False,Cross,80.0
+2025-12-27 08:30:47.205,2,NCF,Maya,83,6,Pass,Key Pass,95,35,XY!N8,,Final Third,Central Lane,R2C3,83.1,False,Pass,31.622776601683793
+2025-12-27 08:31:09.373,2,NCF,Jaden,83,8,Cross,Successful,95,5,XY!N11,,Final Third,Right Lane,R1C3,83.13333333333334,True,Cross,30.0
+2025-12-27 08:32:01.185,2,NCF,Duke,83,15,Offensive Duel,Won,105,75,XY!O4,,Final Third,Left Lane,R3C3,83.25,True,Duel,70.71067811865476
+2025-12-27 08:32:42.912,2,NCF,Duke,83,16,Shot,On Target,105,75,XY!O4,,Final Third,Left Lane,R3C3,83.26666666666667,False,Shot,0.0
+2025-12-27 08:33:44.318,2,NCF,Mathis,83,35,GK Action,Distribution Success,35,45,XY!H7,,Middle Third,Central Lane,R2C2,83.58333333333333,True,GK Action,76.15773105863909
+2025-12-27 08:34:00.910,2,NCF,Cameron,83,37,Aerial Duel,Won,95,35,XY!N8,,Final Third,Central Lane,R2C3,83.61666666666666,True,Duel,60.8276253029822
+2025-12-27 08:34:56.965,2,NCF,Hannes,84,13,Aerial Duel,Won,45,45,XY!I7,,Middle Third,Central Lane,R2C2,84.21666666666667,True,Duel,50.99019513592785
+2025-12-27 08:35:16.797,2,NCF,Jaden,84,15,Pass,Successful,35,45,XY!H7,,Middle Third,Central Lane,R2C2,84.25,True,Pass,10.0
+2025-12-27 08:35:37.655,2,NCF,Fabien,84,16,Aerial Duel,Won,65,45,XY!K7,,Middle Third,Central Lane,R2C2,84.26666666666667,True,Duel,30.0
+2025-12-27 08:36:07.258,2,NCF,Maya,84,18,Pass,Unsuccessful,55,45,XY!J7,,Middle Third,Central Lane,R2C2,84.3,False,Pass,10.0
+2025-12-27 08:36:21.618,2,NCF,Maya,84,18,Recovery,Controlled,65,35,XY!K8,,Middle Third,Central Lane,R2C2,84.3,True,Recovery,14.142135623730951
+2025-12-27 08:36:43.697,2,NCF,Cameron,84,23,Loss,Bad Touch,85,35,XY!M8,,Final Third,Central Lane,R2C3,84.38333333333334,False,Loss,20.0
+2025-12-27 08:37:08.331,2,NCF,Pedri,84,26,Recovery,Controlled,65,45,XY!K7,,Middle Third,Central Lane,R2C2,84.43333333333334,True,Recovery,22.360679774997898
+2025-12-27 08:37:22.073,2,NCF,Pedri,84,28,Pass,Successful,65,35,XY!K8,,Middle Third,Central Lane,R2C2,84.46666666666667,True,Pass,10.0
+2025-12-27 08:37:47.650,2,NCF,Matt,84,30,Pass,Progressive Pass,65,5,XY!K11,,Middle Third,Right Lane,R1C2,84.5,False,Pass,30.0
+2025-12-27 08:38:10.397,2,NCF,Maya,84,33,Pass,Progressive Pass,85,15,XY!M10,,Final Third,Right Lane,R1C3,84.55,False,Pass,22.360679774997898
+2025-12-27 08:38:33.314,2,NCF,Matt,84,35,Offensive Duel,Won,95,5,XY!N11,,Final Third,Right Lane,R1C3,84.58333333333333,True,Duel,14.142135623730951
+2025-12-27 08:38:44.518,2,NCF,Matt,84,37,Cross,Unsuccessful,105,5,XY!O11,,Final Third,Right Lane,R1C3,84.61666666666666,False,Cross,10.0
+2025-12-27 08:43:22.243,2,NCF,Hannes,85,8,Aerial Duel,Won,55,35,XY!J8,,Middle Third,Central Lane,R2C2,85.13333333333334,True,Duel,58.309518948453004
+2025-12-27 08:44:03.236,2,NCF,Mathis,85,10,GK Action,Distribution Fail,25,75,XY!G4,,Defensive Third,Left Lane,R3C1,85.16666666666667,False,GK Action,50.0
+2025-12-27 08:44:20.011,2,NCF,Duke,85,12,Aerial Duel,Lost,85,75,XY!M4,,Final Third,Left Lane,R3C3,85.2,False,Duel,60.0
+2025-12-27 08:44:39.740,2,NCF,Maya,85,15,Recovery,Controlled,75,65,XY!L5,,Final Third,Central Lane,R2C3,85.25,True,Recovery,14.142135623730951
+2025-12-27 08:44:49.624,2,NCF,Maya,85,17,Pass,Successful,75,65,XY!L5,,Final Third,Central Lane,R2C3,85.28333333333333,True,Pass,0.0
+2025-12-27 08:45:13.392,2,NCF,Pablo,85,20,Pass,Progressive Pass,75,75,XY!L4,,Final Third,Left Lane,R3C3,85.33333333333333,False,Pass,10.0
+2025-12-27 08:45:30.876,2,NCF,Duke,85,21,Loss,Dispossessed,95,75,XY!N4,,Final Third,Left Lane,R3C3,85.35,False,Loss,20.0
+2025-12-27 08:46:25.071,2,NCF,Mathis,85,56,GK Action,Distribution Success,15,55,XY!F6,,Defensive Third,Central Lane,R2C1,85.93333333333334,True,GK Action,82.46211251235322
+2025-12-27 08:46:50.451,2,NCF,Fabien,86,5,Pass,Successful,75,15,XY!L10,,Final Third,Right Lane,R1C3,86.08333333333333,True,Pass,72.11102550927978
+2025-12-27 08:47:09.332,2,NCF,Jaden,86,6,Offensive Duel,Won,55,5,XY!J11,,Middle Third,Right Lane,R1C2,86.1,True,Duel,22.360679774997898
+2025-12-27 08:47:31.422,2,NCF,Jaden,86,10,Pass,Progressive Pass,75,15,XY!L10,,Final Third,Right Lane,R1C3,86.16666666666667,False,Pass,22.360679774997898
+2025-12-27 08:47:58.388,2,NCF,Duke,86,12,Pass,Successful,85,35,XY!M8,,Final Third,Central Lane,R2C3,86.2,True,Pass,22.360679774997898
+2025-12-27 08:48:22.085,2,NCF,Pablo,86,15,Cross,Successful,85,75,XY!M4,,Final Third,Left Lane,R3C3,86.25,True,Cross,40.0
+2025-12-27 08:49:24.383,2,NCF,Fabien,86,17,Shot,Off Target,105,45,XY!O7,,Final Third,Central Lane,R2C3,86.28333333333333,False,Shot,36.05551275463989
+2025-12-27 08:50:32.415,2,NCF,Maya,86,45,Defensive Duel,Won,45,15,XY!I10,,Middle Third,Right Lane,R1C2,86.75,True,Duel,67.08203932499369
+2025-12-27 08:51:00.199,2,NCF,Jaden,87,2,Recovery,Controlled,25,15,XY!G10,,Defensive Third,Right Lane,R1C1,87.03333333333333,True,Recovery,20.0
+2025-12-27 08:51:15.299,2,NCF,Jaden,87,3,Pass,Successful,25,15,XY!G10,,Defensive Third,Right Lane,R1C1,87.05,True,Pass,0.0
+2025-12-27 08:51:54.877,2,NCF,Mathis,87,7,GK Action,Distribution Success,15,35,XY!F8,,Defensive Third,Central Lane,R2C1,87.11666666666666,True,GK Action,22.360679774997898
+2025-12-27 08:52:11.695,2,NCF,Duke,87,9,Aerial Duel,Won,75,75,XY!L4,,Final Third,Left Lane,R3C3,87.15,True,Duel,72.11102550927978
+2025-12-27 08:52:28.285,2,NCF,Fabien,87,15,Loss,Dispossessed,95,85,XY!N3,,Final Third,Left Lane,R3C3,87.25,False,Loss,22.360679774997898
+2025-12-27 08:53:32.124,2,NCF,Cameron,87,53,Aerial Duel,Won,85,5,XY!M11,,Final Third,Right Lane,R1C3,87.88333333333334,True,Duel,80.62257748298549
+2025-12-27 08:53:58.419,2,NCF,Maya,87,59,Recovery,Controlled,65,15,XY!K10,,Middle Third,Right Lane,R1C2,87.98333333333333,True,Recovery,22.360679774997898
+2025-12-27 08:54:07.787,2,NCF,Maya,87,59,Pass,Successful,65,15,XY!K10,,Middle Third,Right Lane,R1C2,87.98333333333333,True,Pass,0.0
+2025-12-27 08:54:29.733,2,NCF,Matt,88,1,Loss,Dispossessed,85,15,XY!M10,,Final Third,Right Lane,R1C3,88.01666666666667,False,Loss,20.0
+2025-12-27 08:54:54.889,2,NCF,Cameron,88,4,Recovery,Loose Ball,85,5,XY!M11,,Final Third,Right Lane,R1C3,88.06666666666666,False,Recovery,10.0
+2025-12-27 08:55:27.621,2,NCF,Jaden,88,15,Aerial Duel,Won,55,5,XY!J11,,Middle Third,Right Lane,R1C2,88.25,True,Duel,30.0
+2025-12-27 08:56:16.246,2,NCF,Cameron,88,26,Offensive Duel,Lost,95,15,XY!N10,,Final Third,Right Lane,R1C3,88.43333333333334,False,Duel,41.23105625617661
+2025-12-27 08:56:37.377,2,NCF,Pablo,88,30,Recovery,Controlled,65,75,XY!K4,,Middle Third,Left Lane,R3C2,88.5,True,Recovery,67.08203932499369
+2025-12-27 08:56:47.849,2,NCF,Pablo,88,31,Pass,Successful,65,75,XY!K4,,Middle Third,Left Lane,R3C2,88.51666666666667,True,Pass,0.0
+2025-12-27 08:57:01.458,2,NCF,Hannes,88,34,Pass,Successful,55,55,XY!J6,,Middle Third,Central Lane,R2C2,88.56666666666666,True,Pass,22.360679774997898
+2025-12-27 08:57:44.385,2,NCF,Pablo,88,40,Cross,Unsuccessful,75,85,XY!L3,,Final Third,Left Lane,R3C3,88.66666666666667,False,Cross,36.05551275463989
+2025-12-27 08:58:50.250,2,NCF,Pablo,89,1,Recovery,Controlled,75,85,XY!L3,,Final Third,Left Lane,R3C3,89.01666666666667,True,Recovery,0.0
+2025-12-27 08:59:08.886,2,NCF,Pablo,89,3,Pass,Unsuccessful,85,85,XY!M3,,Final Third,Left Lane,R3C3,89.05,False,Pass,10.0
+2025-12-27 08:59:46.760,2,NCF,Pablo,89,12,Pass,Progressive Pass,95,65,XY!N5,,Final Third,Central Lane,R2C3,89.2,False,Pass,22.360679774997898
+2025-12-27 09:00:00.338,2,NCF,Duke,89,14,Pass,Unsuccessful,105,55,XY!O6,,Final Third,Central Lane,R2C3,89.23333333333333,False,Pass,14.142135623730951
+2025-12-27 09:01:00.883,2,NCF,Matt,89,17,Shot,Blocked,95,45,XY!N7,,Final Third,Central Lane,R2C3,89.28333333333333,False,Shot,14.142135623730951
+2025-12-27 09:01:37.635,2,NCF,Jaden,89,24,Aerial Duel,Won,45,15,XY!I10,,Middle Third,Right Lane,R1C2,89.4,True,Duel,58.309518948453004
+2025-12-27 09:01:58.957,2,NCF,Matt,89,28,Offensive Duel,Foul Won,75,15,XY!L10,,Final Third,Right Lane,R1C3,89.46666666666667,False,Duel,30.0
+2025-12-27 09:03:07.860,2,NCF,Mathis,89,33,Cross,Unsuccessful,85,15,XY!M10,Direct FK,Final Third,Right Lane,R1C3,89.55,False,Cross,10.0
+2025-12-27 09:05:19.630,2,NCF,Pedri,89,42,Offensive Duel,Won,95,15,XY!N10,,Final Third,Right Lane,R1C3,89.7,True,Duel,10.0
+2025-12-27 09:06:30.765,2,NCF,Pedri,89,44,Cross,Unsuccessful,105,15,XY!O10,,Final Third,Right Lane,R1C3,89.73333333333333,False,Cross,10.0

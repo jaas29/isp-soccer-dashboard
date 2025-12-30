@@ -1,0 +1,2 @@
+match_id,team,total_shots,shots_on_target,total_passes,passes_successful,crosses_attempted,crosses_successful,defensive_duels_won,aerial_duels_won,total_recoveries,players_involved,conversion_rate,pass_accuracy
+2,NCF,16,7,235,115,25,6,75,38,68,22,0.0,48.93617021276596
